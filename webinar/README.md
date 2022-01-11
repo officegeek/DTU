@@ -1,3 +1,8 @@
+---
+layout: default
+title: Webinar IDA
+nav_order: 6
+---
 [HOME](../README.md)
 # Webinar IDA
 Jeg underviser for IDA både "*fysiske*" kurser og **Webinarer**.
