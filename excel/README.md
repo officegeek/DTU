@@ -170,84 +170,8 @@ Microsoft vejledninger:
 [Oprette relationer mellem tabeller i Excel](https://support.office.com/da-dk/article/oprette-relationer-mellem-tabeller-i-excel-fe1b6be7-1d85-4add-a629-8a3848820be3)
 [Kompatibilitetsproblemer med Excel-tabeller](https://support.office.com/da-dk/article/kompatibilitetsproblemer-med-excel-tabeller-1e9c9c83-bf17-41c7-b243-c48625a7a6ff)
 
-## PivotTabel
-En **PivotTabel** er et effektivt værktøj til at beregne, opsummere og analysere data, der gør det muligt at se sammenligninger, mønstre og tendenser i dataene.
-
-[PivotTabel](https://support.office.com/da-dk/article/oprette-en-pivottabel-for-at-analysere-regnearksdata-a9a84538-bfe9-40a9-a8e9-f99134456576?ui=da-DK&rs=da-DK&ad=DK)
-
-### PivotTabel Feltlisten
-Når du har oprettet en pivottabel, får du vist feltlisten. Du kan ændre pivottabellens design ved at tilføje og arrangere dens felter. Hvis du vil sortere eller filtrere de kolonner med data, som vises i pivottabel, skal du se Sortere data i en pivottabel og Filtrere data i en pivottabel.
-
-[Feltlisten](https://support.office.com/da-dk/article/brug-af-feltlisten-til-at-arrangere-felter-i-en-pivottabel-43980e05-a585-4fcd-bd91-80160adfebec)
-
-### Gruppér data
-Når du grupperer data i en pivottabel, kan det vise dig et undersæt af data, der skal analyseres.
-
-[Gruppér eller opdel en gruppe af data i en pivottabel](https://support.office.com/da-dk/article/grupp%C3%A9r-eller-opdel-en-gruppe-af-data-i-en-pivottabel-c9d1ddd0-6580-47d1-82bc-c84a5a340725?ui=da-DK&rs=da-DK&ad=DK)
-
-### Beregn værdier i en PivotTabel
-I en pivottabel kan du bruge summeringsfunktioner i værdifelter til at kombinere værdier fra den underliggende datakilde. Hvis summeringsfunktioner og brugerdefinerede beregninger ikke giver de resultater, du ønsker, kan du oprette dine egne formler i beregnede felter eller beregnede elementer. Du kan f.eks. tilføje et beregnet element med formlen for salgsprovisioner, som kunne være forskellige fra område til område. Pivottabellen medtager derefter provisionen i subtotaler og hovedtotaler.
-
-[Beregn værdier i en pivottabel](https://support.office.com/da-dk/article/beregn-v%C3%A6rdier-i-en-pivottabel-11f41417-da80-435c-a5c6-b0185e59da77)
-
-### PivotDiagram
-Nogle gange er det svært at se det store billede, når dine ubehandlede data ikke er blevet opsummeret. Din første Instinct kan være at oprette en pivottabel, men ikke alle kan se tal i en tabel og hurtigt se, hvad der foregår. Pivotdiagrammer er en god måde at føje datavisualiseringer til dine data.
-
-[PivotDiagram](https://support.office.com/da-dk/article/opret-et-pivotdiagram-c1b1e057-6990-4c38-b52b-8255538e7b1c)
-
-### Slette en PivotTabel
-Når du ikke længere har brug for en pivottabel, skal du markere hele pivottabellen og trykke på Delete for at fjerne den.
-
-[Slet PivotTabel](https://support.office.com/da-dk/article/slette-en-pivottabel-1de9b894-9178-43b3-b436-92e3ddb9175b)
-
 ## Udsnitsværktøjer
 Udsnitsværktøjer giver dig knapper, som du kan klikke på for at filtrere **Tabeldata** eller **Pivottabeldata**. 
 Ud over hurtig filtrering angiver udsnitsværktøjer også den aktuelle filtreringstilstand, hvilket gør det nemt at forstå, hvad der præcis vises i en filtreret pivottabel.
 
 [Udsnitsværktøjer](https://support.office.com/da-dk/article/brug-udsnitsv%C3%A6rkt%C3%B8jer-til-at-filtrere-data-249f966b-a9d5-4b0f-b31a-12651785d29d)
-
-## PivotTabel Tidslinje
-I stedet for at justere filtre for at få vist datoer kan du bruge en tidslinje i en pivottabel – en dynamisk filtreringsindstilling, hvor du kan nemt kan filtrere efter dato/klokkeslæt og zoome ind på det ønskede tidsrum ved hjælp af et skyderkontrolelement. Klik på Analysér > Indsæt en Tidslinje for at indsætte en på regnearket.
-
-[PivotTabel Tidslinje](https://support.office.com/da-dk/article/opret-en-pivottabel-tidslinje-til-at-filtrere-datoer-d3956083-01be-408c-906d-6fc99d9fadfa)
-
-## Dataanalyseværktøjer
-Excel har tre meget powerfulde dataanalyseværktøjer:
-
-- Power Pivot
-- Hent og transformer (Power Query)
-- Power View
-
-[Hente og transformere og Power Pivot i Excel](https://support.office.com/da-dk/article/hente-og-transformere-og-power-pivot-i-excel-42d895c2-d1d7-41d0-88da-d1ed7ecc102d)
-
-### Power Pivot
-Power Pivot er en datamodellerings teknologi, der giver dig mulighed for at oprette datamodeller, etablere relationer og oprette beregninger. Med Power Pivot kan du arbejde med store datasæt, opbygge omfattende relationer og oprette komplekse (eller enkle) beregninger, alt sammen i et højtydende miljø med den vante brugeroplevelse i Excel.
-
-[Aktiver tilføjelsesprogrammet Power Pivot](https://support.office.com/da-dk/article/start-tilf%C3%B8jelsesprogrammet-power-pivot-til-excel-a891a66d-36e3-43fc-81e8-fc4798f39ea8)
-
-[Power Pivot – Oversigt og læring](https://support.office.com/da-dk/article/Power-Pivot-%E2%80%93-Oversigt-og-l%C3%A6ring-f9001958-7901-4caa-ad80-028a6d2432ed)
-
-### Hent og transformér
-**Hent og transformér** er en dataforbindelses teknologi, der gør det muligt for dig at finde, forbinde, kombinere og justere datakilder for at opfylde dine analysebehov. Funktioner i **Hent og transformér** er tilgængelige i Excel og Power BI desktop.
-
-[Power Query – Oversigt og læring](https://support.office.com/da-dk/article/power-foresp%C3%B8rgsel-%E2%80%93-oversigt-og-l%C3%A6ring-ed614c81-4b00-4291-bd3a-55d80767f81d)
-
-[Introduktion til Power Query](https://support.office.com/da-dk/article/introduktion-til-power-foresp%C3%B8rgsel-7104fbee-9e62-4cb9-a02e-5bfb1a6c536a)
-
-### Power View
-Power View er en datavisualiserings teknologi, der giver dig mulighed for at oprette interaktive diagrammer, grafer, kort og andre visuelle elementer, der gør dine data levende. Power View er tilgængelig i Excel, SharePoint, SQL Server og Power BI.
-
-Der er nogle [systemkrav til Power-visning](https://support.office.com/da-dk/article/systemkrav-til-power-view-11d2c4b3-0633-4c60-b0e2-88f0f62b7697), afhængigt af hvilken version af Excel, SharePoint eller SQL Server du bruger. Visualiseringerne i Power-visning er også tilgængelige i [Power BI](https://powerbi.com/) og [Power BI Designer](https://powerbi.microsoft.com/designer).
-
-Power View er et tilføjelsesprogram til Excel. Du skal muligvis aktivere det for at bruge Power View.
-
-[Power-visning – Oversigt og læring](https://support.office.com/da-dk/article/power-visning-%E2%80%93-oversigt-og-l%C3%A6ring-5380e429-3ee0-4be2-97b7-64d7930020b6)
-
-[Power View: Undersøge, visualisere og præsentere dine data](https://support.office.com/da-dk/article/power-view-unders%C3%B8ge-visualisere-og-pr%C3%A6sentere-dine-data-98268d31-97e2-42aa-a52b-a68cf460472e)
-
-### Generel forordning om databeskyttelse (GDPR)
-I maj 2018 er en europæiske beskyttelse af personlige oplysninger lovgivning [Generelle Data beskyttelse bestemmelser (GDPR)](https://ec.europa.eu/info/law/law-topic/data-protection_en) på grund af træde i kraft. GDPR er sat, nye regler på firmaer, offentlige institutioner, ikke overskud og andre organisationer, tilbud varer og tjenesteydelser til personer i EU (EU), eller at indsamle og analysere data, der er bundet til EU-bosiddende. GDPR gælder uanset hvor du befinder dig.
-
-Du kan få flere oplysninger om indstillingerne for beskyttelse af personlige oplysninger om opdatering, sletning eller eksportere personlige data fra Power-forespørgsel projektmapper,: [Få vist og opdatere en delt forespørgsel (Power-forespørgsel).](https://support.office.com/da-dk/article/f%C3%A5-vist-og-opdatere-en-delt-foresp%C3%B8rgsel-power-foresp%C3%B8rgsel-ece958c5-baf2-4789-9312-bb113e679e91)
-
-Du kan også kopiere forespørgselsindstillinger Power-forespørgsel **Redigere definitionen for forespørgsel** i dialogboksen. Mikset kan hentes ved at dobbeltklikke på it i ruden **Mine Datakatalogforespørgsler** opgaver i Excel. Alle forespørgslerne, derefter indlæses til Excel-projektmappen. Hvis du vil se individuelle forespørgsler, åbne **Query Editor** og gå igennem hvert trin enkeltvis, eller gå til fanen **Vis** og åbne **Avanceret Editor**.
