@@ -1,3 +1,4 @@
+[HOME](../README.md)
 # Undervisnings datoer - 2022 - Forår
 Modulet løber over 14 undervisnings gange.
 
@@ -10,7 +11,7 @@ De 6 online gange bliver du undervist via videoer der er optaget og tilhørende 
 
 ## Datoer foråret 2022
 
-- 03-02-2022 - **Fremmøde** - [Excel introduktion](../excel/README.md)
+- 03-02-2022 - **Fremmøde** - [Excel](../excel/README.md)
 - 10-02-2022 - **Fremmøde** - [Excel](../excel/README.md)
 - 17-02-2022 - *Online* - [Excel](../excel/online.md)
 - 24-02-2022 - **Fremmøde** - [Project Software](../project/project.md)
