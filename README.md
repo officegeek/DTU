@@ -1,3 +1,8 @@
+---
+layout: default
+title: Introduktion
+nav_order: 1
+---
 # Introduktion
 
 Dette *"materiale"* har jeg sat sammen til brug på modulet **Informationsteknologi i Produktionen** på DTU.
@@ -6,21 +11,21 @@ Dette *"materiale"* har jeg sat sammen til brug på modulet **Informationsteknol
 Dette modul er opdelt i følgende hovedemner:
 
 [Excel - Grundlæggende > Avanceret](./excel/README.md){: .btn .btn-blue }
-- #### [Microsoft Project](./microsoftproject/README.md)
-- #### [Databaser - Teori og helt grundlæggende SQL](./databaser/README.md)
-- #### [VBA programmering i Excel](./vba/README.md)
-- #### [Microsoft Office Scripts](./officescripts/README.md)
+[Microsoft Project](./microsoftproject/README.md){: .btn .btn-blue }
+[Databaser - Teori og helt grundlæggende SQL](./databaser/README.md){: .btn .btn-blue }
+[VBA programmering i Excel](./vba/README.md){: .btn .btn-blue }
+[Microsoft Office Scripts](./officescripts/README.md){: .btn .btn-blue }
 
 Dette modul er hvad jeg vil kalde et **værktøjs kursus**, forstået på den måde at i vil lære at bruge nogle af de centrale værktøjer i får brug for når i er færdiguddannede.
 
 ## Datoer
-Oversigt over de enkelte undervisningsgange - [Datoer](./datoer/README.md)
+Oversigt over de enkelte undervisningsgange - [Datoer](./datoer/README.md){: .btn .btn-green }
 
 ## Eksamen
-Det er et **Bestået/Ikke Bestået** modul, hvor der skal afleveres 4 opgaver i løbet af semestret, som skal godkendes for at bestå - [Opgaver](./opgaver/README.md)
+Det er et **Bestået/Ikke Bestået** modul, hvor der skal afleveres 4 opgaver i løbet af semestret, som skal godkendes for at bestå - [Opgaver](./opgaver/README.md){: .btn .btn-green } 
 
 ## Video
-Jeg har nogle optagelser af *tidligere* undervisningsgange - De kan findes her - [Video](./video/README.md)
+Jeg har nogle optagelser af *tidligere* undervisningsgange - De kan findes her - [Video](./video/README.md){: .btn .btn-green }
 
 ## Tue Hellstern
 Jeg har siden 2017 undervist på modulet **Informationsteknologi i Produktion** og nogle andre beslægtede moduler
