@@ -7,7 +7,7 @@ Dette modul er opdelt i følgende hovedemner:
 
 1. [Excel - Grundlæggende > Avanceret](./excel/README.md)
 2. [Microsoft Project](./microsoftproject/README.md)
-3. [Databaser - Teori og helt grundlæggende SQL](./database/README.md)
+3. [Databaser - Teori og helt grundlæggende SQL](./databaser/README.md)
 4. [VBA programmering i Excel](./vba/README.md)
 5. [Microsoft Office Scripts](./officesripts/README.md)
 
