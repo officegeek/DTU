@@ -5,7 +5,7 @@ Dette *"materiale"* har jeg sat sammen til brug på modulet **Informationsteknol
 ## Kursus indhold
 Dette modul er opdelt i følgende hovedemner:
 
-- #### [Excel - Grundlæggende > Avanceret](./excel/README.md)
+[Excel - Grundlæggende > Avanceret](./excel/README.md){: .btn .btn-blue }
 - #### [Microsoft Project](./microsoftproject/README.md)
 - #### [Databaser - Teori og helt grundlæggende SQL](./databaser/README.md)
 - #### [VBA programmering i Excel](./vba/README.md)
