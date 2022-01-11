@@ -1,3 +1,9 @@
+---
+layout: default
+title: Datoer
+parent: Introduktion
+nav_order: 2
+---
 [HOME](../README.md)
 # Undervisnings datoer - 2022 - Forår
 Modulet løber over 14 undervisnings gange.
