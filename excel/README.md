@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Excel
-nav_order: 1
+nav_order: 2
+has_children: true
 ---
 [HOME](../README.md)
 # Excel
