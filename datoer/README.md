@@ -13,11 +13,12 @@ De 6 online gange bliver du undervist via videoer der er optaget og tilhørende 
 
 |Dato	        |Type         	|Link                                                                 	|
 |------------	|--------------	|---------------------------------------------------------------------	|
+| 03-02-2022 	| **Fremmøde** 	| [Excel](../excel/README.md)                                         	|
 | 10-02-2022 	| **Fremmøde** 	| [Excel](../excel/README.md)                                         	|
 | 17-02-2022 	| *Online*     	| [Excel](../excel/online.md)                                         	|
-| 24-02-2022 	| **Fremmøde** 	| [Project Software](../project/project.md)                           	|
+| 24-02-2022 	| **Fremmøde** 	| [Project Software](../microsoftproject/README.md)                           	|
 | 25-02-2022 	| Opgave 1   	  |                                                                     	|
-| 03-03-2022 	| **Fremmøde** 	| [Project Software](../project/project.md)                           	|
+| 03-03-2022 	| **Fremmøde** 	| [Project Software](../microsoftproject/README.md)                           	|
 | 10-03-2022 	| **Fremmøde** 	| [Excel Data - Power Query - Database - SQL](../databaser/README.md) 	|
 | 11-03-2022 	| Opgave 2    	|                                                                     	|
 | 17-03-2022 	| *Online*     	| [Excel Data - Power Query - Database - SQL](../databaser/README.md) 	|
@@ -35,9 +36,13 @@ De 6 online gange bliver du undervist via videoer der er optaget og tilhørende 
 ## Opgaver
 Der er 4 obligatoriske opgaver som **skal** afleveres på følgende datoer:
 
-- Opgave 1 - Fredag den 25-02-2022
-- Opgave 2 - Fredag den 11-03-2022
-- Opgave 3 - Fredag den 08-04-2022
-- Opgave 4 - Fredag den 13-05-2022
+| Opgave   | Afleverings dato      |
+|----------|-----------------------|
+| Opgave 1 | Fredag den 25-02-2022 |
+| Opgave 2 | Fredag den 11-03-2022 |
+| Opgave 3 | Fredag den 08-04-2022 |
+| Opgave 4 | Fredag den 13-05-2022 |
 
 For at bestå modulet skal **alle** 4 obligatoriske opgaver være afleveret og godkendt. Der er ingen eksamen og karakteren er *bestået/ikke bestået*
+
+[Link til opgaver](../opgaver/README.md)
