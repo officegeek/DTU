@@ -1,3 +1,10 @@
+---
+layout: default
+title: Microsoft Project
+parent: Project
+nav_order: 2
+---
+[HOME](./README.md)
 # Microsoft Project
 Microsoft har oprettet en vejledning der hjælper dig med at forstå projektstyring, mens du bruger Microsoft Project.
 
