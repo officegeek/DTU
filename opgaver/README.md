@@ -1,3 +1,8 @@
+---
+layout: default
+title: Opgaver
+nav_order: 6
+---
 [HOME](../README.md)
 # Opgaver
 Alle opgaver skal afleveres på DTU Learn
