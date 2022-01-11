@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tidligere videoer
+nav_order: 5
+---
 [HOME](../README.md)
 # Video
 Jeg har nogle optagelser af *tidligere* undervisningsgange.
