@@ -1,5 +1,6 @@
 [HOME](../README.md)
 # Opgaver
+Alle opgaver skal afleveres på DTU Learn
 
 ## Opgave 1
 Har fokus på Excel
