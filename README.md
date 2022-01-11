@@ -5,7 +5,7 @@ Dette *"materiale"* har jeg sat sammen til brug på modulet **Informationsteknol
 ## Kursus indhold -test
 Dette modul er opdelt i følgende hovedemner:
 
-1. [Excel - Grundlæggende > Avanceret](./Excel/README.md)
+1. [Excel - Grundlæggende > Avanceret](./excel/README.md)
 2. Microsoft Project
 3. Databaser - Teori og helt grundlæggende SQL
 4. VBA programmering i Excel
