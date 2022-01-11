@@ -21,6 +21,9 @@ Det er et **Bestået/Ikke Bestået** modul, hvor der skal afleveres 4 opgaver i 
 
 [Opgaver](./opgaver/README.md)
 
+# Video
+Jeg har nogle optagelser af *tidligere* undervisningsgange - De kan findes her - [Video](./video/README.md)
+
 # Tue Hellstern
 Jeg har siden 2017 undervist på modulet **Informationsteknologi i Produktion** og nogle andre beslægtede moduler
 
