@@ -1,3 +1,10 @@
+---
+layout: default
+title: Database
+nav_order: 2
+has_children: false
+---
+[HOME](./README.md)
 # Database
 De data du kommer til at arbejde med vil i mange tilfælde ligge i en Database.
 
