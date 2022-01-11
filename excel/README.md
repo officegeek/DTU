@@ -1,3 +1,8 @@
+---
+layout: default
+title: Excel
+nav_order: 1
+---
 [HOME](../README.md)
 # Excel
 
