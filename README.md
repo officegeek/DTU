@@ -1,15 +1,15 @@
 # Introduktion
 
-Dette *"materiale"* har jeg sat sammen til brug på modulet **Informationsteknologi i Produktion** på DTU.
+Dette *"materiale"* har jeg sat sammen til brug på modulet **Informationsteknologi i Produktionen** på DTU.
 
-## Kursus indhold -test
+## Kursus indhold
 Dette modul er opdelt i følgende hovedemner:
 
-1. [Excel - Grundlæggende > Avanceret](./excel/README.md)
-2. [Microsoft Project](./microsoftproject/README.md)
-3. [Databaser - Teori og helt grundlæggende SQL](./databaser/README.md)
-4. [VBA programmering i Excel](./vba/README.md)
-5. [Microsoft Office Scripts](./officesripts/README.md)
+### [Excel - Grundlæggende > Avanceret](./excel/README.md)
+### [Microsoft Project](./microsoftproject/README.md)
+### [Databaser - Teori og helt grundlæggende SQL](./databaser/README.md)
+### [VBA programmering i Excel](./vba/README.md)
+### [Microsoft Office Scripts](./officesripts/README.md)
 
 Dette modul er hvad jeg vil kalde et **værktøjs kursus**, forstået på den måde at i vil lære at bruge nogle af de centrale værktøjer i får brug for når i er færdiguddannede.
 
@@ -31,13 +31,13 @@ Ud over mine konsulentopgaver har jeg undervist indenfor de sammen emner, både 
 
 # Links
 
-### Microsoft Education Hub
+## Microsoft Education Hub
 DTU giver jer adgang til Microsoft software gennem deres Education Hub - [https://aka.ms/devtoolsforteaching](https://aka.ms/devtoolsforteaching)
 
 Ved Microsoft’s login siden skriver du INITIALER/S-NUMMER@win.dtu.dk
 Siden vil derefter viderestille dig til DTU’s login side, hvor du logger på med dine DTU legitimationsoplysninger.
 
-### Links relateret til undervisningen
+## Links relateret til undervisningen
 Der findes rigtig mange www sider der omhandler Microsoft Office programmerne og VBA programmering. De har alle typisk hver deres fordele. Jeg har her samlet nogle sider som jeg syntes godt om.
 
 - [Office Hjælp og kurser](https://support.office.com/)
