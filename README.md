@@ -19,6 +19,8 @@ Oversigt over de enkelte undervisningsgange - [Datoer](./datoer/README.md)
 ## Eksamen
 Det er et **Bestået/Ikke Bestået** modul, hvor der skal afleveres 4 opgaver i løbet af semestret, som skal godkendes for at bestå.
 
+[Opgaver](./opgaver/README.md)
+
 # Tue Hellstern
 Jeg har siden 2017 undervist på modulet **Informationsteknologi i Produktion** og nogle andre beslægtede moduler
 
