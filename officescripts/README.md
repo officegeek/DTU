@@ -1,3 +1,8 @@
+---
+layout: default
+title: Microsoft Office Scripts
+nav_order: 4
+---
 [HOME](../README.md)
 # Microsoft Office Scripts
 Office Scripts i Excel på nettet lader dig automatisere dine daglige opgaver. 
