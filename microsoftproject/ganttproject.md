@@ -9,7 +9,7 @@
     - Export to CSV or Excel for data processing. 
     - Export to PDF or PNG to produce reports or printable charts.
 
-# Download
+## Download
 Du kan hente GanttProject her - [Download](https://www.ganttproject.biz/download/gp30)
 
 ## It is free of charge
