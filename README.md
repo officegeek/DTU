@@ -9,7 +9,7 @@ Dette modul er opdelt i følgende hovedemner:
 ### [Microsoft Project](./microsoftproject/README.md)
 ### [Databaser - Teori og helt grundlæggende SQL](./databaser/README.md)
 ### [VBA programmering i Excel](./vba/README.md)
-### [Microsoft Office Scripts](./officesripts/README.md)
+### [Microsoft Office Scripts](./officescripts/README.md)
 
 Dette modul er hvad jeg vil kalde et **værktøjs kursus**, forstået på den måde at i vil lære at bruge nogle af de centrale værktøjer i får brug for når i er færdiguddannede.
 
