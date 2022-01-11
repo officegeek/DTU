@@ -5,26 +5,24 @@ Dette *"materiale"* har jeg sat sammen til brug på modulet **Informationsteknol
 ## Kursus indhold
 Dette modul er opdelt i følgende hovedemner:
 
-### [Excel - Grundlæggende > Avanceret](./excel/README.md)
-### [Microsoft Project](./microsoftproject/README.md)
-### [Databaser - Teori og helt grundlæggende SQL](./databaser/README.md)
-### [VBA programmering i Excel](./vba/README.md)
-### [Microsoft Office Scripts](./officescripts/README.md)
+#### [Excel - Grundlæggende > Avanceret](./excel/README.md)
+#### [Microsoft Project](./microsoftproject/README.md)
+#### [Databaser - Teori og helt grundlæggende SQL](./databaser/README.md)
+#### [VBA programmering i Excel](./vba/README.md)
+#### [Microsoft Office Scripts](./officescripts/README.md)
 
 Dette modul er hvad jeg vil kalde et **værktøjs kursus**, forstået på den måde at i vil lære at bruge nogle af de centrale værktøjer i får brug for når i er færdiguddannede.
 
-# Datoer
+## Datoer
 Oversigt over de enkelte undervisningsgange - [Datoer](./datoer/README.md)
 
 ## Eksamen
-Det er et **Bestået/Ikke Bestået** modul, hvor der skal afleveres 4 opgaver i løbet af semestret, som skal godkendes for at bestå.
+Det er et **Bestået/Ikke Bestået** modul, hvor der skal afleveres 4 opgaver i løbet af semestret, som skal godkendes for at bestå - [Opgaver](./opgaver/README.md)
 
-[Opgaver](./opgaver/README.md)
-
-# Video
+## Video
 Jeg har nogle optagelser af *tidligere* undervisningsgange - De kan findes her - [Video](./video/README.md)
 
-# Tue Hellstern
+## Tue Hellstern
 Jeg har siden 2017 undervist på modulet **Informationsteknologi i Produktion** og nogle andre beslægtede moduler
 
 Jeg har siden 1995 arbejdet som selvstændig konsulent indenfor følgende områder:
@@ -37,15 +35,15 @@ Jeg har siden 1995 arbejdet som selvstændig konsulent indenfor følgende områd
 
 Ud over mine konsulentopgaver har jeg undervist indenfor de sammen emner, både direkte for virksomheder og for kursusvirksomheder. Desuden underviser jeg på KEA, Datamatiker uddannelsen og Økonomi og IT-uddannelsen
 
-# Links
+## Links
 
-## Microsoft Education Hub
+### Microsoft Education Hub
 DTU giver jer adgang til Microsoft software gennem deres Education Hub - [https://aka.ms/devtoolsforteaching](https://aka.ms/devtoolsforteaching)
 
 Ved Microsoft’s login siden skriver du INITIALER/S-NUMMER@win.dtu.dk
 Siden vil derefter viderestille dig til DTU’s login side, hvor du logger på med dine DTU legitimationsoplysninger.
 
-## Links relateret til undervisningen
+### Links relateret til undervisningen
 Der findes rigtig mange www sider der omhandler Microsoft Office programmerne og VBA programmering. De har alle typisk hver deres fordele. Jeg har her samlet nogle sider som jeg syntes godt om.
 
 - [Office Hjælp og kurser](https://support.office.com/)
@@ -63,5 +61,3 @@ Der findes rigtig mange www sider der omhandler Microsoft Office programmerne og
 - [ExcelGuru.ca](https://www.excelguru.ca/)
 - [Office Scripts in Excel on the web](https://docs.microsoft.com/en-us/office/dev/scripts/overview/excel)
 - [Office Scripts documentation](https://docs.microsoft.com/en-us/office/dev/scripts/)
-
-
