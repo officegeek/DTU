@@ -6,10 +6,10 @@ Dette *"materiale"* har jeg sat sammen til brug på modulet **Informationsteknol
 Dette modul er opdelt i følgende hovedemner:
 
 1. [Excel - Grundlæggende > Avanceret](./excel/README.md)
-2. Microsoft Project
-3. Databaser - Teori og helt grundlæggende SQL
-4. VBA programmering i Excel
-5. Microsoft Office Scripts
+2. [Microsoft Project](./microsoftproject/README.md)
+3. [Databaser - Teori og helt grundlæggende SQL](./database/README.md)
+4. [VBA programmering i Excel](./vba/README.md)
+5. [Microsoft Office Scripts](./officesripts/README.md)
 
 Dette modul er hvad jeg vil kalde et **værktøjs kursus**, forstået på den måde at i vil lære at bruge nogle af de centrale værktøjer i får brug for når i er færdiguddannede.
 
@@ -40,21 +40,20 @@ Siden vil derefter viderestille dig til DTU’s login side, hvor du logger på m
 ### Links relateret til undervisningen
 Der findes rigtig mange www sider der omhandler Microsoft Office programmerne og VBA programmering. De har alle typisk hver deres fordele. Jeg har her samlet nogle sider som jeg syntes godt om.
 
-
- - [Office Hjælp og kurser](https://support.office.com/)
- - [Excel help center](https://support.office.com/en-us/excel)
- - [Tastaturgenveje i Excel til Windows](https://support.office.com/da-dk/article/funktionen-t%C3%A6lv-7dc98875-d5c1-46f1-9a82-53f3219e2509)
- - [Project Hjælp-center](https://support.office.com/da-DK/project)
- - [Microsoft Office VBA Reference](https://docs.microsoft.com/en-us/office/vba/api/overview/)
- - [Microsoft Excel Community](https://techcommunity.microsoft.com/t5/Excel/ct-p/Excel_Cat)
- - [Excel Uservoice](https://excel.uservoice.com/)
- - [Answers Microsoft - DK](https://answers.microsoft.com/da-dk/)
- - [www.mrexcel.com](https://www.mrexcel.com/)
- - [Excelforum.com](https://www.excelforum.com/)
- - [Ozgrid.com](https://www.ozgrid.com/)
- - [excelexperts.com](http://excelexperts.com/)
- - [ExcelGuru.ca](https://www.excelguru.ca/)
- - [Office Scripts in Excel on the web](https://docs.microsoft.com/en-us/office/dev/scripts/overview/excel)
+- [Office Hjælp og kurser](https://support.office.com/)
+- [Excel help center](https://support.office.com/en-us/excel)
+- [Tastaturgenveje i Excel til Windows](https://support.office.com/da-dk/article/funktionen-t%C3%A6lv-7dc98875-d5c1-46f1-9a82-53f3219e2509)
+- [Project Hjælp-center](https://support.office.com/da-DK/project)
+- [Microsoft Office VBA Reference](https://docs.microsoft.com/en-us/office/vba/api/overview/)
+- [Microsoft Excel Community](https://techcommunity.microsoft.com/t5/Excel/ct-p/Excel_Cat)
+- [Excel Uservoice](https://excel.uservoice.com/)
+- [Answers Microsoft - DK](https://answers.microsoft.com/da-dk/)
+- [www.mrexcel.com](https://www.mrexcel.com/)
+- [Excelforum.com](https://www.excelforum.com/)
+- [Ozgrid.com](https://www.ozgrid.com/)
+- [excelexperts.com](http://excelexperts.com/)
+- [ExcelGuru.ca](https://www.excelguru.ca/)
+- [Office Scripts in Excel on the web](https://docs.microsoft.com/en-us/office/dev/scripts/overview/excel)
 - [Office Scripts documentation](https://docs.microsoft.com/en-us/office/dev/scripts/)
 
 
