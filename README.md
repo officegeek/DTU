@@ -13,6 +13,9 @@ Dette modul er opdelt i følgende hovedemner:
 
 Dette modul er hvad jeg vil kalde et **værktøjs kursus**, forstået på den måde at i vil lære at bruge nogle af de centrale værktøjer i får brug for når i er færdiguddannede.
 
+# Datoer
+Oversigt over de enkelte undervisningsgange - [Datoer](./datoer/README.md)
+
 ## Eksamen
 Det er et **Bestået/Ikke Bestået** modul, hvor der skal afleveres 4 opgaver i løbet af semestret, som skal godkendes for at bestå.
 
