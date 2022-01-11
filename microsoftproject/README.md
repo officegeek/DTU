@@ -1,3 +1,9 @@
+---
+layout: default
+title: Project
+nav_order: 2
+has_children: true
+---
 [HOME](../README.md)
 # Projekt styrings software
 Der findes forskellige software programmer til at styre projekter, herunder opgaver og ressourcer
