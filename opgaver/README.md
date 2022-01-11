@@ -1,3 +1,4 @@
+[HOME](../README.md)
 # Opgaver
 
 ## Opgave 1
