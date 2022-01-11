@@ -1,3 +1,10 @@
+---
+layout: default
+title: GanttProject
+parent: Project
+nav_order: 3
+---
+[HOME](./README.md)
 # GanttProject
 
 - Easy to start
