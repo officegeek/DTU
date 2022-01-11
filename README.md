@@ -1,9 +1,3 @@
----
-layout: default
-title: Introduktion
-nav_order: 1
-has_children: false
----
 # Introduktion
 
 Dette *"materiale"* har jeg sat sammen til brug på modulet **Informationsteknologi i Produktionen** på DTU.
