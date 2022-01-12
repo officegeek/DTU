@@ -23,7 +23,7 @@ Dette modul er opdelt i følgende hovedemner:
 Dette modul er hvad jeg vil kalde et **værktøjs kursus**, forstået på den måde at i vil lære at bruge nogle af de centrale værktøjer i får brug for når i er færdiguddannede.
 
 ## Datoer
-Oversigt over de enkelte undervisningsgange - 
+Oversigt over de enkelte undervisningsgange
 <span class="fs-1">
 [Datoer](./datoer/README.md){: .btn .btn-green }
 </span>
