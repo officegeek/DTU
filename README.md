@@ -19,15 +19,15 @@ Dette modul er hvad jeg vil kalde et **værktøjs kursus**, forstået på den m�
 
 ## Datoer
 Oversigt over de enkelte undervisningsgange - 
-<span class="fs-3">
+<span class="fs-1">
 [Datoer](./datoer/README.md){: .btn .btn-green }
 </span>
 
 ## Eksamen
-Det er et **Bestået/Ikke Bestået** modul, hvor der skal afleveres 4 opgaver i løbet af semestret, som skal godkendes for at bestå - [Opgaver](./opgaver/README.md){: .btn .btn-green } 
-
-## Video
-Jeg har nogle optagelser af *tidligere* undervisningsgange - De kan findes her - [Video](./video/README.md){: .btn .btn-green }
+Det er et **Bestået/Ikke Bestået** modul, hvor der skal afleveres 4 opgaver i løbet af semestret, som skal godkendes for at bestå
+<span class="fs-1">
+[Opgaver](./opgaver/README.md){: .btn .btn-green } 
+</span>
 
 ## Tue Hellstern
 Jeg har siden 2017 undervist på modulet **Informationsteknologi i Produktion** og nogle andre beslægtede moduler
