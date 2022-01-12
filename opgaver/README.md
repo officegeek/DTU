@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Opgaver
-nav_order: 6
+nav_order: 7
 ---
 [HOME](../README.md)
 # Opgaver
