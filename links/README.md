@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buttons
+title: Links
 nav_order: 11
 ---
 [HOME](../README.md)
