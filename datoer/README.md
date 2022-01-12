@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Datoer
-parent: Introduktion
 nav_order: 2
 ---
 [HOME](../README.md)
