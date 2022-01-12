@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buttons
+title: Tue Hellstern
 nav_order: 10
 ---
 
@@ -17,3 +17,6 @@ Jeg har siden 1995 arbejdet som selvstændig konsulent indenfor følgende områd
 - Statistik - R programmering og Python
 
 Ud over mine konsulentopgaver har jeg undervist indenfor de sammen emner, både direkte for virksomheder og for kursusvirksomheder. Desuden underviser jeg på KEA, Datamatiker uddannelsen og Økonomi og IT-uddannelsen
+
+## E-mail
+Min DTU e-mail er <tuhel@dtu.dk>
