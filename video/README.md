@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tidligere videoer
-nav_order: 5
+nav_order: 8
 ---
 [HOME](../README.md){: .btn }
 # Video
