@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Microsoft Office Scripts
-nav_order: 4
+nav_order: 6
 ---
 [HOME](../README.md)
 # Microsoft Office Scripts
