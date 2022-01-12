@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Database
+title: Database - MySQL
+parent: Database
 nav_order: 2
 has_children: false
 ---
