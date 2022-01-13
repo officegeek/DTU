@@ -3,7 +3,9 @@ layout: default
 title: Opgaver
 nav_order: 7
 ---
-[HOME](../README.md)
+<span class="fs-1">
+[HOME](../README.md){: .btn .btn-blue }
+</span>
 # Opgaver
 Alle opgaver skal afleveres på DTU Learn
 
