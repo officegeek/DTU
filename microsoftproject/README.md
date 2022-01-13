@@ -4,7 +4,9 @@ title: Project
 nav_order: 4
 has_children: true
 ---
-[HOME](../README.md)
+<span class="fs-1">
+[HOME](../README.md){: .btn .btn-blue }
+</span>
 # Projekt styrings software
 Der findes forskellige software programmer til at styre projekter, herunder opgaver og ressourcer
 
