@@ -4,7 +4,9 @@ title: Excel
 nav_order: 3
 has_children: true
 ---
-[HOME](../README.md)
+<span class="fs-1">
+[HOME](../README.md){: .btn .btn-blue }
+</span>
 # Excel
 
 ## Excel funktioner
