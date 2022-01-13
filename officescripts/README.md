@@ -3,7 +3,9 @@ layout: default
 title: Microsoft Office Scripts
 nav_order: 6
 ---
-[HOME](../README.md)
+<span class="fs-1">
+[HOME](../README.md){: .btn .btn-blue }
+</span>
 # Microsoft Office Scripts
 Office Scripts i Excel på nettet lader dig automatisere dine daglige opgaver. 
 
