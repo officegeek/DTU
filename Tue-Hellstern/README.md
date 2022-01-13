@@ -3,8 +3,9 @@ layout: default
 title: Tue Hellstern
 nav_order: 10
 ---
-
-[HOME](../README.md)
+<span class="fs-1">
+[HOME](../README.md){: .btn .btn-blue }
+</span>
 # Tue Hellstern
 Jeg har siden 2017 undervist på modulet Informationsteknologi i Produktion og nogle andre beslægtede moduler
 
