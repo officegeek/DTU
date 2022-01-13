@@ -3,7 +3,9 @@ layout: default
 title: Datoer
 nav_order: 2
 ---
-[HOME](../README.md)
+<span class="fs-1">
+[HOME](../README.md){: .btn .btn-blue }
+</span>
 # Undervisnings datoer - 2022 - Forår
 Modulet løber over 14 undervisnings gange.
 
