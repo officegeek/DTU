@@ -3,7 +3,9 @@ layout: default
 title: Links
 nav_order: 11
 ---
-[HOME](../README.md)
+<span class="fs-1">
+[HOME](../README.md){: .btn .btn-blue }
+</span>
 # Links
 
 ## Microsoft Education Hub
