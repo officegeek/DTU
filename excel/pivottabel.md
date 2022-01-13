@@ -4,7 +4,9 @@ title: PivotTabel
 parent: Excel
 nav_order: 3
 ---
-[HOME](./README.md)
+<span class="fs-1">
+[HOME](./README.md){: .btn .btn-blue }
+</span>
 # PivotTabel
 En **PivotTabel** er et effektivt værktøj til at beregne, opsummere og analysere data, der gør det muligt at se sammenligninger, mønstre og tendenser i dataene.
 
