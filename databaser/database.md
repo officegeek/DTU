@@ -7,7 +7,8 @@ has_children: false
 ---
 <span class="fs-1">
 [HOME](../README.md){: .btn .btn-blue }
-</span>)
+</span>
+
 # Database
 De data du kommer til at arbejde med vil i mange tilfælde ligge i en Database.
 
@@ -220,7 +221,7 @@ Et **VIEW** vil altid vises de nyeste data.
     FROM tabel
     WHERE betingelse;
 
--- Eksempel fra Northwind
+    - Eksempel fra Northwind
     
     create view Salg_Pr_Kunde AS
     select 
