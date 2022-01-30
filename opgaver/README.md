@@ -10,13 +10,13 @@ nav_order: 7
 Alle opgaver skal afleveres på DTU Learn
 
 ## Opgave 1
-Har fokus på Excel
+Fokus på Excel
 
 ## Opgave 2
-Har fokus på Microsoft Project
+Fokus på Microsoft Project
 
 ## Opgave 3
-Har fokus på Databaser, Power Query og VBA
+Fokus på Databaser, Power Query og VBA
 
 ## Opgave 4
 Samler alt det i har været igennem
