@@ -258,10 +258,10 @@ SELECT * FROM tabel_navn
 ```sql
 select * from Employees;
 
-select 
-        EmployeeID,
-        FirstName,
-        LastName
+select
+    EmployeeID,
+    FirstName,
+    LastName
 from Employees;
 ```
 
@@ -286,9 +286,9 @@ Hvis du gerne vil skrive en kommentar der fylder mere end en linje eller det er 
 
 ```sql
 /* 
-    Vælg alle kolonner
-    og alle poster 
-    i Customers tabellen 
+Vælg alle kolonner
+og alle poster 
+i Customers tabellen 
 */
 
 SELECT * FROM Customers;
@@ -549,7 +549,7 @@ GROUP BY LastName:
 ### HAVING
 Hvis du vil "udvælge" data på basis af en gruppering (GROUP BY) kan du IKKE bruge WHERE.
 
-**Dette eksempel fra Northwind vil *ikke* virke**
+Dette eksempel fra Northwind vil **ikke** virke, da der bruges **WHERE**.
 
 ```sql
 SELECT 
@@ -562,7 +562,7 @@ WHERE COUNT(CustomerID) > 5;
 
 Når der er fortaget en gruppering på *"CustomerID"* skal du bruge SQL kommandoen **HAVING** for at det virker.
 
-**Samme eksempel fra Northwind, men med HAVING**
+Samme eksempel fra Northwind, men med **HAVING**
 
 ```sql
 SELECT 
@@ -617,7 +617,7 @@ CREATE INDEX Emp_name
 ON Employees (LastName, FirstName);
 ```
 
-#### UNIQUE INDEX
+### UNIQUE INDEX
 Det er muligt at oprette et unikt index, ligesom det index der oprettes ved primær nøglen. Det kan f.eks. bruges til at sikre at en kunde ikke oprettes to gange - kunne f.eks. være kundes CVR nummer.
 
 ```sql
@@ -628,7 +628,7 @@ CREATE UNIQUE INDEX UniqProduct
 ON Products (ProductName);
 ```
 
-#### DROP INDEX
+### DROP INDEX
 Du kan fjerne et index med kommandoen **DROP INDEX** kombineret med **ALTER TABLE**
 
 ```sql
@@ -639,7 +639,7 @@ ALTER TABLE Employees
 DROP INDEX Emp_name;
 ```
 
-#### Hvilke felter
+### Hvilke felter
 *Hvilke felter skal du så oprette indekser på?*
 
 Som udgangspunkt bliver der oprettet et unikt index på dine primærnøgle. Ud over det vil det typisk være en fordel at oprette indekser på de felter der er **fremmede nøgler**.
@@ -651,7 +651,7 @@ Der er dog en ulempe ved oprettelsen af indekser - Det at gemme data bliver **la
 Hvis man skal indsætte eller opdatere store mængder data kan det være en fordel at slette dine indekser først og så oprette dem igen, når indsættelsen af data er færdig.
 
 
-### CASE
+## CASE
 En CASE sætning opsætter forskellige betingelser som data så "holdes" op imod og der returneres en værdi i forhold til det.
 
 En CASE sætning virker som en IF-THEN-ELSE sætning.
