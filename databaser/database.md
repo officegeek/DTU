@@ -247,22 +247,22 @@ Den bruges til at hente data ud af din database.
 **Syntax SELECT**
 
 ```sql
-    SELECT kolonne_1, kolonne_2,  ...
-    FROM tabel_navn;
+SELECT kolonne_1, kolonne_2,  ...
+FROM tabel_navn;
     
-    SELECT * FROM tabel_navn
+SELECT * FROM tabel_navn
 ```
 
 **Northwind Syntax SELECT**
 
 ```sql
-    select * from Employees;
+select * from Employees;
 
-    select 
+select 
         EmployeeID,
         FirstName,
         LastName
-    from Employees;
+from Employees;
 ```
 
 ### Kommentarer
