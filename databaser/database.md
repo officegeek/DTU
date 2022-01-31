@@ -82,7 +82,7 @@ Udgangspunktet er et regneark der bruges til at register elever og deres karakte
 
 **NF 2**
 
-![Skole_NF2](../Skole_NF2.png)
+![Skole_NF2](./Skole_NF2.png)
 
 **NF 3**
 
@@ -215,7 +215,8 @@ Det er altså nemmere for brugeren at hente data fra et **VIEW**.
 
 Et **VIEW** vil altid vises de nyeste data.
 
-```sql
+
+
 
     CREATE VIEW view_navn AS
     SELECT kolonne_1, kolonne_2, ....
@@ -235,9 +236,7 @@ Et **VIEW** vil altid vises de nyeste data.
     on Orders.OrderID = Order_Details.OrderID
     group by Customers.CustomerID, Customers.CompanyName;
 
-```
 
-Du finder **VIEW** i en selvstændig mappe i din database
 
 Du finder **VIEW** i en selvstændig mappe
 
