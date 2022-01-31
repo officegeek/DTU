@@ -215,7 +215,7 @@ Det er altså nemmere for brugeren at hente data fra et **VIEW**.
 
 Et **VIEW** vil altid vises de nyeste data.
 
-```
+```sql
 CREATE VIEW view_navn AS
 SELECT kolonne_1, kolonne_2,
 FROM tabel
