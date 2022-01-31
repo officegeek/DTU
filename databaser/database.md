@@ -217,24 +217,22 @@ Et **VIEW** vil altid vises de nyeste data.
 
 
 
-
-    CREATE VIEW view_navn AS
-    SELECT kolonne_1, kolonne_2, ....
-    FROM tabel
-    WHERE betingelse;
-
+CREATE VIEW view_navn AS
+SELECT kolonne_1, kolonne_2,
+FROM tabel
+WHERE betingelse;
     
-    create view Salg_Pr_Kunde AS
-    select 
-        Customers.CustomerID,
-            Customers.CompanyName,
-            sum(Order_Details.UnitPrice * Order_Details.Quantity) as Salg
-    from Customers
-    join Orders
-    on Customers.CustomerID = Orders.CustomerID
-    join Order_Details
-    on Orders.OrderID = Order_Details.OrderID
-    group by Customers.CustomerID, Customers.CompanyName;
+create view Salg_Pr_Kunde AS
+select 
+Customers.CustomerID,
+Customers.CompanyName,
+sum(Order_Details.UnitPrice * Order_Details.Quantity) as Salg
+from Customers
+join Orders
+on Customers.CustomerID = Orders.CustomerID
+join Order_Details
+on Orders.OrderID = Order_Details.OrderID
+group by Customers.CustomerID, Customers.CompanyName;
 
 
 
