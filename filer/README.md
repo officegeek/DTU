@@ -8,7 +8,7 @@ nav_order: 10
 </span>
 
 # Filer
-Herfinder du de filer du skal bruge til dete kursus.
+Her finder du filer der skal bruge til dette kursus.
 
 ## Excel
 - [Excel_Dag_1.xlsx](./Excel_Dag_1.xlsx)
