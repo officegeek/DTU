@@ -12,3 +12,4 @@ Herfinder du de filer du skal bruge til dete kursus.
 
 ## Excel
 - [Excel_Dag_1.xlsx](./Excel_Dag_1.xlsx)
+- [Excel_Dag_2.xlsx](./Excel_Dag_2.xlsx)
