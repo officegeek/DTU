@@ -19,8 +19,4 @@ Fokus på denne online undervisning vil være følgende emner:
 # Gantt
 
 ## Projeckt info
-<div style="position: relative; padding-bottom: 108.35073068893529%; height: 0;"><iframe src="https://www.loom.com/embed/a8dc61fb671946f3b9df8f3c25320626" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-<a href="{https://www.loom.com/embed/a8dc61fb671946f3b9df8f3c25320626}" title="Info boks"><img src="{https://cdn.loom.com/sessions/thumbnails/a8dc61fb671946f3b9df8f3c25320626-with-play.gif}" alt="Info boks" /></a>
-
 <div style="position: relative; padding-bottom: 62.799263351749545%; height: 0;"><iframe src="https://www.loom.com/embed/905c08006a31473fa575d3da39ea1eca" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
