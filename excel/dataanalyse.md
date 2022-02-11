@@ -4,7 +4,9 @@ title: Dataanalyseværktøjer
 parent: Excel
 nav_order: 4
 ---
-[HOME](./README.md)
+<span class="fs-1">
+[HOME](./README.md){: .btn .btn-blue }
+</span>
 # Dataanalyseværktøjer
 Excel har tre meget powerfulde dataanalyseværktøjer:
 

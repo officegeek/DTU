@@ -4,7 +4,9 @@ title: Database
 nav_order: 4
 has_children: true
 ---
-[HOME](../README.md)
+<span class="fs-1">
+[HOME](../README.md){: .btn .btn-blue }
+</span>
 # Excel Data - Power Query - Database
 
 ## Database

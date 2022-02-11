@@ -3,7 +3,9 @@ layout: default
 title: VBA
 nav_order: 5
 ---
-[HOME](../README.md)
+<span class="fs-1">
+[HOME](../README.md){: .btn .btn-blue }
+</span>
 # VBA
 VBA bruges rigtig meget i Excel og det er også i Excel du primært kommer til at bruge VBA.
 

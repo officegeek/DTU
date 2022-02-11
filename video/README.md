@@ -3,7 +3,9 @@ layout: default
 title: Tidligere videoer
 nav_order: 8
 ---
-[HOME](../README.md){: .btn }
+<span class="fs-1">
+[HOME](../README.md){: .btn .btn-blue }
+</span>
 # Video
 Jeg har nogle optagelser af *tidligere* undervisningsgange.
 

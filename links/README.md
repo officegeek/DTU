@@ -3,7 +3,9 @@ layout: default
 title: Links
 nav_order: 11
 ---
-[HOME](../README.md)
+<span class="fs-1">
+[HOME](../README.md){: .btn .btn-blue }
+</span>
 # Links
 
 ## Microsoft Education Hub
@@ -15,11 +17,10 @@ Siden vil derefter viderestille dig til DTU’s login side, hvor du logger på m
 ## Links relateret til undervisningen
 Der findes rigtig mange www sider der omhandler Microsoft Office programmerne og VBA programmering. De har alle typisk hver deres fordele. Jeg har her samlet nogle sider som jeg syntes godt om.
 
+### Excel og Office
 - [Office Hjælp og kurser](https://support.office.com/)
 - [Excel help center](https://support.office.com/en-us/excel)
 - [Tastaturgenveje i Excel til Windows](https://support.office.com/da-dk/article/funktionen-t%C3%A6lv-7dc98875-d5c1-46f1-9a82-53f3219e2509)
-- [Project Hjælp-center](https://support.office.com/da-DK/project)
-- [Microsoft Office VBA Reference](https://docs.microsoft.com/en-us/office/vba/api/overview/)
 - [Microsoft Excel Community](https://techcommunity.microsoft.com/t5/Excel/ct-p/Excel_Cat)
 - [Excel Uservoice](https://excel.uservoice.com/)
 - [Answers Microsoft - DK](https://answers.microsoft.com/da-dk/)
@@ -28,6 +29,16 @@ Der findes rigtig mange www sider der omhandler Microsoft Office programmerne og
 - [Ozgrid.com](https://www.ozgrid.com/)
 - [excelexperts.com](http://excelexperts.com/)
 - [ExcelGuru.ca](https://www.excelguru.ca/)
+
+### VBA
+- [Microsoft Office VBA Reference](https://docs.microsoft.com/en-us/office/vba/api/overview/)
+
+### Office Script
 - [Office Scripts in Excel on the web](https://docs.microsoft.com/en-us/office/dev/scripts/overview/excel)
 - [Office Scripts documentation](https://docs.microsoft.com/en-us/office/dev/scripts/)
 
+### Project
+- [Project Hjælp-center](https://support.office.com/da-DK/project)
+
+### Database
+- [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)

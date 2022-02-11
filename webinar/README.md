@@ -3,7 +3,9 @@ layout: default
 title: Webinar IDA
 nav_order: 9
 ---
-[HOME](../README.md)
+<span class="fs-1">
+[HOME](../README.md){: .btn .btn-blue }
+</span>
 # Webinar IDA
 Jeg underviser for IDA både "*fysiske*" kurser og **Webinarer**.
 

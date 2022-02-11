@@ -5,7 +5,10 @@ parent: Database
 nav_order: 2
 has_children: false
 ---
-[HOME](./README.md)
+<span class="fs-1">
+[HOME](../README.md){: .btn .btn-blue }
+</span>
+
 # Database
 De data du kommer til at arbejde med vil i mange tilfælde ligge i en Database.
 
@@ -79,7 +82,11 @@ Udgangspunktet er et regneark der bruges til at register elever og deres karakte
 
 **NF 2**
 
+<<<<<<< HEAD
 ![Skole_NF2](./image//Skole_NF2.png)
+=======
+![Skole_NF2](./Skole_NF2.png)
+>>>>>>> 35fe11610d5d637dc2c0c20e7d58b5e64aef378d
 
 **NF 3**
 
@@ -214,26 +221,24 @@ Et **VIEW** vil altid vises de nyeste data.
 
 ```sql
     CREATE VIEW view_navn AS
-    SELECT kolonne_1, kolonne_2, ....
+    SELECT kolonne_1, kolonne_2,
     FROM tabel
     WHERE betingelse;
-
--- Eksempel fra Northwind
     
+    -- Eksempel fra Northwind
     create view Salg_Pr_Kunde AS
     select 
         Customers.CustomerID,
-            Customers.CompanyName,
-            sum(Order_Details.UnitPrice * Order_Details.Quantity) as Salg
+        Customers.CompanyName,
+        sum(Order_Details.UnitPrice * Order_Details.Quantity) as Salg
     from Customers
     join Orders
-    on Customers.CustomerID = Orders.CustomerID
+        on Customers.CustomerID = Orders.CustomerID
     join Order_Details
-    on Orders.OrderID = Order_Details.OrderID
+        on Orders.OrderID = Order_Details.OrderID
     group by Customers.CustomerID, Customers.CompanyName;
 ```
 
-Du finder **VIEW** i en selvstændig mappe i din database
 
 Du finder **VIEW** i en selvstændig mappe
 
@@ -246,22 +251,22 @@ Den bruges til at hente data ud af din database.
 **Syntax SELECT**
 
 ```sql
-    SELECT kolonne_1, kolonne_2,  ...
-    FROM tabel_navn;
+SELECT kolonne_1, kolonne_2,  ...
+FROM tabel_navn;
     
-    SELECT * FROM tabel_navn
+SELECT * FROM tabel_navn
 ```
 
 **Northwind Syntax SELECT**
 
 ```sql
-    select * from Employees;
+select * from Employees;
 
-    select 
-        EmployeeID,
-        FirstName,
-        LastName
-    from Employees;
+select
+    EmployeeID,
+    FirstName,
+    LastName
+from Employees;
 ```
 
 ### Kommentarer
@@ -285,9 +290,9 @@ Hvis du gerne vil skrive en kommentar der fylder mere end en linje eller det er 
 
 ```sql
 /* 
-    Vælg alle kolonner
-    og alle poster 
-    i Customers tabellen 
+Vælg alle kolonner
+og alle poster 
+i Customers tabellen 
 */
 
 SELECT * FROM Customers;
@@ -548,7 +553,7 @@ GROUP BY LastName:
 ### HAVING
 Hvis du vil "udvælge" data på basis af en gruppering (GROUP BY) kan du IKKE bruge WHERE.
 
-**Dette eksempel fra Northwind vil *ikke* virke**
+Dette eksempel fra Northwind vil **ikke** virke, da der bruges **WHERE**.
 
 ```sql
 SELECT 
@@ -561,7 +566,7 @@ WHERE COUNT(CustomerID) > 5;
 
 Når der er fortaget en gruppering på *"CustomerID"* skal du bruge SQL kommandoen **HAVING** for at det virker.
 
-**Samme eksempel fra Northwind, men med HAVING**
+Samme eksempel fra Northwind, men med **HAVING**
 
 ```sql
 SELECT 
@@ -616,7 +621,7 @@ CREATE INDEX Emp_name
 ON Employees (LastName, FirstName);
 ```
 
-#### UNIQUE INDEX
+### UNIQUE INDEX
 Det er muligt at oprette et unikt index, ligesom det index der oprettes ved primær nøglen. Det kan f.eks. bruges til at sikre at en kunde ikke oprettes to gange - kunne f.eks. være kundes CVR nummer.
 
 ```sql
@@ -627,7 +632,7 @@ CREATE UNIQUE INDEX UniqProduct
 ON Products (ProductName);
 ```
 
-#### DROP INDEX
+### DROP INDEX
 Du kan fjerne et index med kommandoen **DROP INDEX** kombineret med **ALTER TABLE**
 
 ```sql
@@ -638,7 +643,7 @@ ALTER TABLE Employees
 DROP INDEX Emp_name;
 ```
 
-#### Hvilke felter
+### Hvilke felter
 *Hvilke felter skal du så oprette indekser på?*
 
 Som udgangspunkt bliver der oprettet et unikt index på dine primærnøgle. Ud over det vil det typisk være en fordel at oprette indekser på de felter der er **fremmede nøgler**.
@@ -650,7 +655,7 @@ Der er dog en ulempe ved oprettelsen af indekser - Det at gemme data bliver **la
 Hvis man skal indsætte eller opdatere store mængder data kan det være en fordel at slette dine indekser først og så oprette dem igen, når indsættelsen af data er færdig.
 
 
-### CASE
+## CASE
 En CASE sætning opsætter forskellige betingelser som data så "holdes" op imod og der returneres en værdi i forhold til det.
 
 En CASE sætning virker som en IF-THEN-ELSE sætning.

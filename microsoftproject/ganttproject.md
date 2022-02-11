@@ -4,7 +4,9 @@ title: GanttProject
 parent: Project
 nav_order: 3
 ---
-[HOME](./README.md)
+<span class="fs-1">
+[HOME](./README.md){: .btn .btn-blue }
+</span>
 # GanttProject
 
 - Easy to start
