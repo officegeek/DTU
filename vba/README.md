@@ -2,6 +2,7 @@
 layout: default
 title: VBA
 nav_order: 5
+has_children: true
 ---
 <span class="fs-1">
 [HOME](../README.md){: .btn .btn-blue }
