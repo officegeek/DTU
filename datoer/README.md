@@ -22,7 +22,7 @@ De 6 online gange bliver du undervist via videoer der er optaget og tilhørende 
 |------------	|--------------	|---------------------------------------------------------------------	|
 | 03-02-2022 	| **Fremmøde** 	| [Excel](../excel/README.md)                                         	|
 | 10-02-2022 	| **Fremmøde** 	| [Excel](../excel/README.md)                                         	|
-| 17-02-2022 	| *Online*     	| [Excel](../excel/online.md)                                         	|
+| 17-02-2022 	| *Online*     	| [Excel](../excel/online_17022022.md)                                         	|
 | 24-02-2022 	| **Fremmøde** 	| [Project Software](../microsoftproject/README.md)                    	|
 | 25-02-2022 	| Opgave 1   	  | [Link til opgaver](../opgaver/README.md)                             	|
 | 03-03-2022 	| **Fremmøde** 	| [Project Software](../microsoftproject/README.md)                    	|
