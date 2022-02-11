@@ -27,7 +27,7 @@ Det er databasen MySQL vi skal bruge og programmet MySQL Workbench.
 E/R-diagrammer (Entitets/Relations-diagram) er et værktøj til at modellere databaser. 
 E/R diagrammer viser alle entiteter i en database samt relationerne imellem dem. Informationerne herfra benyttes, når databasen oprettes.
 
-![ER_Northwind](./ER_Northwind.png)
+![ER_Northwind](./image/ER_Northwind.png)
 
 ## Normalisering
 Formået med normalisering er at undgå redundans og gøre databasen lettere at vedligeholde.
@@ -69,28 +69,28 @@ Udgangspunktet er et regneark der bruges til at register elever og deres karakte
 
 **NF 0**
 
-![Skole_NF0](./Skole_NF0.png)
+![Skole_NF0](./image/Skole_NF0.png)
 
 *Hvad er problemet?*
 
 **NF 1**
 
-![Skole_NF1](./Skole_NF1.png)
+![Skole_NF1](./image/Skole_NF1.png)
 
 **NF 2**
 
-![Skole_NF2](../img/Skole_NF2.png)
+![Skole_NF2](./image//Skole_NF2.png)
 
 **NF 3**
 
-![Skole_NF3](./Skole_NF3.png)
+![Skole_NF3](./image/Skole_NF3.png)
 
 
 **ER-Diagram**
 
 Over Skole i normalform 3. Med angivelse af datatyper og relationer melle de 5 tabeller.
 
-![ER_Skole](./ER_Skole.png)
+![ER_Skole](./image/ER_Skole.png)
 
 Du kan bruge Workbench til at tegne dit ER-diagram. Jeg vil dog altid anbefale at du starter med tegne ER-Diagrammet på et stykke papir.
 
@@ -119,7 +119,7 @@ Hver kunde står kun en gang i **Customeres** tabellen, men da hver kunde har en
 
 Det vil sige at relationen går fra primær nøglen **CustomerID** (*En siden*) i tabellen **Customeres** til fremmednøglen i, CustomerID i tabellen **Orderes** (*Mange siden*).
 
-![EnTilMangeRelation](./EnTilMangeRelation.png)
+![EnTilMangeRelation](./image/EnTilMangeRelation.png)
 
 
 **En til En**
@@ -133,7 +133,7 @@ Denne relations type bruges kun brugt af to grunde:
 
 **Eksempel**
 
-![EnTilRelation](./EnTilRelation.png)
+![EnTilRelation](./image/EnTilRelation.png)
 
 Et eksempel kunne være fortrolige oplysninger som:
 
@@ -155,7 +155,7 @@ Der er altså en **Mange til Mange** relation mellem tabellerne **Orders** og **
 
 Dette løses var at oprette en ekstra tabel - Order_details - Da denne relationen melle de to tabeller **ikke** kan oprettes direkte.
 
-![MangeTilMangeRelation](./MangeTilMangeRelation.png)
+![MangeTilMangeRelation](./image/MangeTilMangeRelation.png)
 
 ## JOIN
 Du skal bruge SQL kommandoen **JOIN** for hente data fra flere tabeller.
@@ -165,26 +165,26 @@ Der findes 4 forskellige **JOIN** typer:
 * INNER JOIN  
 * LEFT JOIN  
 * RIGHT JOIN
-* FULL JOIN (ikke understøttet i MySQL)
+* FULL JOIN (*ikke understøttet i MySQL*)
 * SELF JOIN
 
 ### INNER JOIN
 
 Henter fællesmængden fra de to tabeller - Altså der hvor værdierne er ens.
 
-![inner-1](./inner-1.png)
+![inner-1](./image/inner-1.png)
 
 ### LEFT JOIN
 Henter alle data fra den venstre tabel (*table1*) og de data der matcher fra den anden tabel (*tabel2*).
 
-![left_Join](./left_Join.png)
+![left_Join](./image/left_Join.png)
 
 Kaldes også **LEFT OUTER JOIN**
 
 ### RIGHT JOIN
 Henter alle data fra den højre tabel (*table2*) og de data der matcher fra den anden tabel (*tabel1*).
 
-![right_Join](./right_Join.png)
+![right_Join](./image/right_Join.png)
 
 Kaldes også **RIGHT OUTER JOIN**
 
@@ -194,7 +194,7 @@ Der findes også en **FULL JOIN**, der henter alle data fra begge tabeller.
 
 **Bemærk** at MySQL **IKKE** understøtter **FULL JOIN**
 
-![full_join](./full_join.png)
+![full_join](./image/full_join.png)
 
 ### SELF JOIN
 En **SELF JOIN** joiner en tabel med sig selv.
@@ -272,7 +272,7 @@ Der er to forskellige muligheder for  kommentarer
 - På en enkelt linje - her brugere du: --
 - Over flere linjer - her brugere du: /* kommentar */
 
-**Eksempeler på en kommentar på en linje**
+**Eksempler på en kommentar på en linje**
 
 ```sql
 --Select all
@@ -605,7 +605,7 @@ ON Orders (CustomerID);
 
 Brugeren kan ikke se de indexer der er oprette, men du kan se dem under den enkelte tabel i mappen **Indexes**
 
-![](./Index_1.png)
+![](./image/Index_1.png)
 
 Det er også muligt at oprette et index hvor du kombinere flere kolonner.
 
