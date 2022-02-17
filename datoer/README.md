@@ -34,8 +34,8 @@ De 6 online gange bliver du undervist via videoer der er optaget og tilhørende 
 | 07-04-2022 	| **Fremmøde** 	| [Excel VBA programmering](../vba/README.md)                         	|
 | 08-04-2022 	| [Opgave 3](../opgaver/README.md){: .btn .btn-blue } |                             	|
 | 14-04-2022 	| **Påske**    	|                                                                     	|
-| 21-04-2022 	| *Online*     	| [Excel VBA programmering](../vba/online_21042022.md)                         	|
-| 28-04-2022 	| *Online*     	| [Excel Office Script](../officescripts/online_28042022.md)                   	|
+| 21-04-2022 	| *Online*     	| [Excel VBA programmering](../vba/online_21042022.md){: .btn .btn-green }                         	|
+| 28-04-2022 	| *Online*     	| [Excel Office Script](../officescripts/online_28042022.md){: .btn .btn-green }                   	|
 | 05-05-2022 	| **Fremmøde** 	| [Excel Office Script](../officescripts/README.md)                   	|
 | 12-05-2022 	| **Fremmøde** 	| Opsamling                                                            	|
 | 13-05-2022 	| [Opgave 4](../opgaver/README.md){: .btn .btn-blue } |                             	|
