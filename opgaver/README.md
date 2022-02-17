@@ -6,11 +6,14 @@ nav_order: 7
 <span class="fs-1">
 [HOME](../README.md){: .btn .btn-blue }
 </span>
+
 # Opgaver
-Alle opgaver skal afleveres på DTU Learn
+Alle opgaver skal afleveres på DTU Learn - 
 
 ## Opgave 1
-Fokus på Excel
+Informationen omkring opgave 1. finder du i Excel filen [DTU_Opgave_1.xlsx](..//filer/DTU_Opgave_1.xlsx)
+
+Det er også denne fil du skal aflevere på DTU Learn
 
 ## Opgave 2
 Fokus på Microsoft Project
