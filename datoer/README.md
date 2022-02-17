@@ -22,11 +22,9 @@ De 6 online gange bliver du undervist via videoer der er optaget og tilhørende 
 |------------	|--------------	|---------------------------------------------------------------------	|
 | 03-02-2022 	| **Fremmøde** 	| [Excel](../excel/README.md)                                         	|
 | 10-02-2022 	| **Fremmøde** 	| [Excel](../excel/README.md)                                         	|
-| 17-02-2022 	| Online
-{: .label .label-yellow }     	| [Excel](../excel/online_17022022.md)                                         	|
+| 17-02-2022 	| Online     	| [Excel](../excel/online_17022022.md)                                         	|
 | 24-02-2022 	| **Fremmøde** 	| [Project Software](../microsoftproject/README.md)                    	|
-| 25-02-2022 	| Opgave 1
-{: .label .label-green }   	| [Link til opgaver](../opgaver/README.md)                             	|
+| 25-02-2022 	| Opgave 1{: .label .label-green }   	| [Link til opgaver](../opgaver/README.md)                             	|
 | 03-03-2022 	| **Fremmøde** 	| [Project Software](../microsoftproject/README.md)                    	|
 | 10-03-2022 	| **Fremmøde** 	| [Excel Data - Power Query - Database - SQL](../databaser/README.md) 	|
 | 11-03-2022 	| Opgave 2    	| [Link til opgaver](../opgaver/README.md)                              |
@@ -42,8 +40,6 @@ De 6 online gange bliver du undervist via videoer der er optaget og tilhørende 
 | 12-05-2022 	| **Fremmøde** 	| Opsamling                                                            	|
 | 13-05-2022 	| Opgave 4     	| [Link til opgaver](../opgaver/README.md)                             	|                                                                     	|
 
-Opgave 1
-{: .label .label-green }  
 
 ## Opgaver
 Der er 4 obligatoriske opgaver som **skal** afleveres på følgende datoer:
