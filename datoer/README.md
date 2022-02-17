@@ -42,6 +42,9 @@ De 6 online gange bliver du undervist via videoer der er optaget og tilhørende 
 | 12-05-2022 	| **Fremmøde** 	| Opsamling                                                            	|
 | 13-05-2022 	| Opgave 4     	| [Link til opgaver](../opgaver/README.md)                             	|                                                                     	|
 
+Opgave 1
+{: .label .label-green }  
+
 ## Opgaver
 Der er 4 obligatoriske opgaver som **skal** afleveres på følgende datoer:
 
