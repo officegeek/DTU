@@ -51,4 +51,6 @@ Der er 4 obligatoriske opgaver som **skal** afleveres på følgende datoer:
 | Opgave 3 | Fredag den 08-04-2022 |
 | Opgave 4 | Fredag den 13-05-2022 |
 
-For at bestå modulet skal **alle** 4 obligatoriske opgaver være afleveret og godkendt. Der er ingen eksamen og karakteren er *bestået/ikke bestået* - [Gå til opgaver](../opgaver/README.md){: .btn .btn-blue }
+For at bestå modulet skal **alle** 4 obligatoriske opgaver være afleveret og godkendt. Der er ingen eksamen og karakteren er *bestået/ikke bestået*
+
+[Gå til opgaver](../opgaver/README.md){: .btn .btn-blue }
