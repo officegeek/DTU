@@ -6,11 +6,13 @@ nav_order: 8
 <span class="fs-1">
 [HOME](../README.md){: .btn .btn-blue }
 </span>
+
 # Video
-Jeg har nogle optagelser af *tidligere* undervisningsgange.
+Jeg har nogle optagelser af *forgående* år.
 
-**Bemærk** at det ikke er helt det sammen der undervises i fra år til år
+**Bemærk** at det **ikke** er helt det sammen der undervises i fra år til år
 
+## 2021
 - [18-03-2021](https://www.dropbox.com/s/w4z3sa275iie1ez/2021-03-18.mp4?dl=0)
 - [08-10-2021](https://web.microsoftstream.com/video/74d2186a-369e-44fa-a68f-aeb9920c6f2b)
 - [22-10-2021](https://web.microsoftstream.com/video/8b7ec09b-b0ce-46e8-bd56-89680162beac)
