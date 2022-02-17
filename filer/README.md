@@ -8,15 +8,20 @@ nav_order: 10
 </span>
 
 # Filer
-Her finder du filer der skal bruge til dette kursus.
+Her finder du filer der skal bruge på dette kursus.
 
 ## Excel
 - [Excel_Dag_1.xlsx](./Excel_Dag_1.xlsx)
 - [Excel_Dag_2.xlsx](./Excel_Dag_2.xlsx)
 - [Gantt](./Gantt_Studerende_Start.xlsx)
 
+
 ## Microsoft Project
 
 
 ## Databaser
+
+
+## Opgave filer
+- [Opgave 1 - DTU_Opgave_1.xlsx](../filer/DTU_Opgave_1.xlsx)
 
