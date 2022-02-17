@@ -35,13 +35,13 @@ GanttProject is distributed under GPL3 license. You can download the source code
 Her er nogle YouTube videoer omkring GanttProject
 
 ### Manage Project and Tasks Free, Easy and Fast with GanttProject Software
-![type:video](https://www.youtube.com/embed/ZIEyU5fXnzA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZIEyU5fXnzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Gantt Project Intro and Tutorial
-![type:video](https://www.youtube.com/embed/Hkl36PFJnDM)    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hkl36PFJnDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ### Gantt Project Tutorial
-![type:video](https://www.youtube.com/embed/fxhYf4llXkE) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fxhYf4llXkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### GanttProject Tutorial
-![type:video](https://www.youtube.com/embed/5FukJpd_VNs)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FukJpd_VNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
