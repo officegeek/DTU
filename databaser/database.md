@@ -38,7 +38,7 @@ I Workbench skal i oprette forbindelse til Azure databasen **Northwind**, med di
 ## Northwind
 *The Northwind database is a sample database used by Microsoft to demonstrate the features of some of its products, including SQL Server and Microsoft Access. The database contains the sales data for Northwind Traders, a fictitious specialty foods exportimport company.*
 
-[SQL script der opretter Northwind](https://www.dropbox.com/s/kdnxnq8zz8idp9i/Northwind.sql?dl=0)
+[SQL script der opretter Northwind](./image/Northwind.sql)
 
 ### Northwind ER-diagram
 E/R-diagrammer (Entitets/Relations-diagram) er et værktøj til at modellere databaser. 
