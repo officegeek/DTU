@@ -2,7 +2,7 @@
 layout: default
 title: PivotTabel
 parent: Excel
-nav_order: 3
+nav_order: 30
 ---
 <span class="fs-1">
 [HOME](./README.md){: .btn .btn-blue }

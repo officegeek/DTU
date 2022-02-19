@@ -2,7 +2,7 @@
 layout: default
 title: Dataanalyseværktøjer
 parent: Excel
-nav_order: 4
+nav_order: 40
 ---
 <span class="fs-1">
 [HOME](./README.md){: .btn .btn-blue }
