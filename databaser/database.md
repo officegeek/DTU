@@ -21,6 +21,20 @@ Det er databasen MySQL vi skal bruge og programmet MySQL Workbench.
 
 [Download MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 
+## Azure
+I kommer til at arbejde med en MySQL database der er hostede på Azure i deres cloud løsning.
+
+Fordelen ved det er at i ikke skal skal oprette databasen, tabeller og indsætte data. Det afspejler også godt de opgaver i kommer til at udfører senere, det vil være det færreste af jer der skal oprette en data base fra grunden.
+
+### Login MySQL
+I Workbench skal i oprette forbindelse til Azure databasen **Northwind**, med disse indstillinger:
+
+- Server name: test-tueh.mysql.database.azure.com
+- Server admin login name: tue
+- Password: *udleveres ved undervisningen*
+
+![](./image/DTU_Workbench_2.jpg)
+
 ## Northwind
 *The Northwind database is a sample database used by Microsoft to demonstrate the features of some of its products, including SQL Server and Microsoft Access. The database contains the sales data for Northwind Traders, a fictitious specialty foods exportimport company.*
 
@@ -46,7 +60,7 @@ Typisk fortager man kun en normalisering op til den tredje normalform.
 
 **Definition:** *En relation er på første normalform, hvis ingen af dens domæner har elementer, der i sig selv er mængder.*
 
-* Tabellen har et nøglefelt (behøver ikke at være unikt)
+* Tabellen har et nøglefelt (*behøver ikke at være unikt*)
 * Der må kun være en værdi af samme type i hver post
 * Alle poster skal være lige lange dvs. have samme antal felter
 
@@ -55,16 +69,16 @@ Typisk fortager man kun en normalisering op til den tredje normalform.
 
 **Definition:** *En relation er på anden normalform, hvis den er på første normalform, og hvis enhver ikke-nøgle-attribut er fuldt funktionelt afhængig af enhver kandidatnøgle i relationen.*
 
-* Tabellen skal opfylder 1. Normalform
-* Der skal være en primærnøgle
+- Tabellen skal opfylder 1. Normalform
+- Der skal være en primærnøgle
 
 
 **3. normalform (NF3)**
 
 **Definition:** *En relation er på tredje normalform, hvis den er på anden normalform og det gælder, at ingen ikke-nøgle-attribut er transitivt afhængig af nogen kandidatnøgle i relationen.*
 
-* Tabellen skal opfylder 2. Normalform
-* Hvis der er mere end et felt der kan sættes som nøgle for andre felter skal tabellen opdeles i flere
+- Tabellen skal opfylder 2. Normalform
+- Hvis der er mere end et felt der kan sættes som nøgle for andre felter skal tabellen opdeles i flere
 
 
 ### Eksempel - Skole
@@ -82,11 +96,7 @@ Udgangspunktet er et regneark der bruges til at register elever og deres karakte
 
 **NF 2**
 
-<<<<<<< HEAD
 ![Skole_NF2](./image//Skole_NF2.png)
-=======
-![Skole_NF2](./Skole_NF2.png)
->>>>>>> 35fe11610d5d637dc2c0c20e7d58b5e64aef378d
 
 **NF 3**
 
@@ -111,9 +121,9 @@ En fremmednøgle er et felt i en tabel, som peger på en primærnøgle i en ande
 
 Der findes tre typer af relationer:
 
-* En til Mange
-* En til En
-* Mange til Mange
+- En til Mange
+- En til En
+- Mange til Mange
 
 
 **En til Mange**
@@ -133,8 +143,8 @@ Det vil sige at relationen går fra primær nøglen **CustomerID** (*En siden*) 
 
 Denne relations type bruges kun brugt af to grunde:
 
-* Sikkerhed
-* Opdeling af en meget stor tabel
+- Sikkerhed
+- Opdeling af en meget stor tabel
 
 Årsagen er at man ligeså godt kunne have alle data i en tabel.
 
@@ -144,9 +154,9 @@ Denne relations type bruges kun brugt af to grunde:
 
 Et eksempel kunne være fortrolige oplysninger som:
 
-* Cpr nummer
-* Løn
-* Pension
+- Cpr nummer
+- Løn
+- Pension
 
 Der er gemt i en selvstændig tabel som så er relateret til en tabel med det mere "almindelige" oplysninger som navn, mobilnummer, e-mail osv.
 
@@ -169,11 +179,11 @@ Du skal bruge SQL kommandoen **JOIN** for hente data fra flere tabeller.
 
 Der findes 4 forskellige **JOIN** typer:
 
-* INNER JOIN  
-* LEFT JOIN  
-* RIGHT JOIN
-* FULL JOIN (*ikke understøttet i MySQL*)
-* SELF JOIN
+- INNER JOIN  
+- LEFT JOIN  
+- RIGHT JOIN
+- FULL JOIN (*ikke understøttet i MySQL*)
+- SELF JOIN
 
 ### INNER JOIN
 
