@@ -34,7 +34,7 @@ Der er to steder du kan ændre indstillinger:
 - **Projekt** > Indstillinger
 - **Rediger** > Indstillinger
 
-## Projekt indstillinger
+## Projekt > indstillinger
 Projekt indstillinger er opdelt i følgende:
 
 - Generelt
@@ -59,7 +59,18 @@ Dine ressourcer kan opdeles i forskellige *roller*. Disse roller defineres her, 
 
 ![](./image/gannt_2.jpg)
 
-### Rediger indstillinger
+### Rediger > indstillinger
+Disse indstillinger er opdelt i:
+
+- Generelt
+- Diagrammer
+- Ressource
+- FTP-server indstillinger
+- CSV eksport
+- WebDAV server
+- App Updates
+
+![](./image/gannt_3.jpg)
 
 # Importer
 Det er muligt at *importere* følgende fil formater til GanttProject:
@@ -81,9 +92,32 @@ Det er muligt at eksportere til følgende fil formater:
 
 Du finder **Eksporter** under **Projekt** 
 
+# Opgaver
+Du kan opretter **opgaver** på flere måder:
+
+- Opgave > Ny Opgave
+- CTRL + T
+- Klik på "*Ur symbolet*"
+
+## Hoved/Under - opgaver
+Du kan gøre en opgave til **Under opgave** ved at rykke den ind under det der skal være **Hoved opgaven**. Det gør du ved at bruge det *indryknings symbolet*
+
+![](./image/gannt_4.jpg)
+
+# Ressourcer
+Du kan oprette **Ressourcer** på flere måder:
+
+- Ressourcer > Ny Ressource
+- CTRL + H
+- Klik på "*Person symbolet*"
+
+![](./image/gannt_5.jpg)
+
 # Cloud
 - Der findes også en Cloud version af GanttProject - [Se mere her](https://ganttproject.cloud/)
 - Cloud løsningen kan synkroniseres med Desktop løsningen
+
+*GanttProject Cloud IS NOT (yet) a web service for drawing Gantt charts. You need to use GanttProject Desktop to edit your projects.*
 
 Vejledning til hvordan du brugere og indstille deres cloud løsning kan du finde her[https://help.ganttproject.biz/t/ganttproject-cloud-docs/1954](https://help.ganttproject.biz/t/ganttproject-cloud-docs/1954)
 
