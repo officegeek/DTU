@@ -20,7 +20,7 @@ Information om opgave 2. finder du i PDF filen [GanttOpgave.pdf](./GanttOpgave.p
 
 Teksten til opgaven kan du med fordel finde i Excel filen [Board_Room.xlsx](../filer/Board_Room.xlsx)
 
-Det er Ganttproject filen du skal aflevere på DTU Learn
+Det er GanttProject filen du skal aflevere på DTU Learn
 
 ## Opgave 3
 Fokus på Databaser, Power Query og VBA
