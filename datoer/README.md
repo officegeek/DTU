@@ -28,8 +28,8 @@ De 6 online gange bliver du undervist via videoer der er optaget og tilhørende 
 | 03-03-2022 	| **Fremmøde** 	| [Database - SQL](../databaser/README.md)                          	|
 | 10-03-2022 	| **Fremmøde** 	| [Excel Data - Power Query - Database - SQL](../databaser/README.md) 	|
 | 11-03-2022 	| [Opgave 2](../opgaver/README.md){: .btn .btn-blue } |                             	|
-| 17-03-2022 	| *Online*     	| [Excel Data - Power Query - Database - SQL](../databaser/online_17032022.md){: .btn .btn-green }  	|
-| 24-03-2022 	| *Online*     	| [Excel Data - Power Query - Database - SQL](../databaser/online_24032022.md){: .btn .btn-green }  	|
+| 17-03-2022 	| *Online*     	| [Excel VBA programmering](../vba/online_17032022.md){: .btn .btn-green }  	|
+| 24-03-2022 	| *Online*     	| [Excel VBA programmering](../vba/online_24032022.md){: .btn .btn-green }  	|
 | 31-03-2022 	| *Online*     	| [Excel VBA programmering](../vba/online_31032022.md){: .btn .btn-green }                          	|
 | 07-04-2022 	| **Fremmøde** 	| [Excel VBA programmering](../vba/README.md)                         	|
 | 08-04-2022 	| [Opgave 3](../opgaver/README.md){: .btn .btn-blue } |                             	|
