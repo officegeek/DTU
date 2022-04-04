@@ -22,16 +22,16 @@ De 6 online gange bliver du undervist via videoer der er optaget og tilhørende 
 |------------	|--------------	|---------------------------------------------------------------------	|
 | 03-02-2022 	| **Fremmøde** 	| [Excel](../excel/README.md)                                         	|
 | 10-02-2022 	| **Fremmøde** 	| [Excel](../excel/README.md)                                         	|
-| 17-02-2022 	| Online     	| [Excel](../excel/online_17022022.md){: .btn .btn-green }                                 	|
+| 17-02-2022 	| Online     	| [Excel](../excel/online_17022022.md){: .btn .btn-green }            	|
 | 24-02-2022 	| **Fremmøde** 	| [Project Software](../microsoftproject/README.md)                    	|
 | 25-02-2022 	| Opgave 1   	| [Link til opgaver](../opgaver/README.md)                             	|
 | 03-03-2022 	| **Fremmøde** 	| [Project Software](../microsoftproject/README.md)                    	|
 | 10-03-2022 	| **Fremmøde** 	| [Excel Data - Power Query - Database - SQL](../databaser/README.md) 	|
 | 11-03-2022 	| Opgave 2    	| [Link til opgaver](../opgaver/README.md)                              |
-| 17-03-2022 	| *Online*     	| [Excel Data - Power Query - Database - SQL](../databaser/README.md) 	|
-| 24-03-2022 	| *Online*     	| [Excel Data - Power Query - Database - SQL](../databaser/README.md) 	|
-| 31-03-2022 	| *Online*     	| [Excel VBA programmering](../vba/README.md)                         	|
-| 07-04-2022 	| *Online* 	    | [Excel VBA programmering](../vba/README.md)                         	|
+| 17-03-2022 	| *Online*     	| [Excel VBA](../vba/online_17032022.md){: .btn .btn-green }        	|
+| 24-03-2022 	| *Online*     	| [Excel VBA](../vba/online_24032022.md){: .btn .btn-green }  	        |
+| 31-03-2022 	| *Online*     	| [Excel VBA](../vba/online_31032022.md){: .btn .btn-green }          	|
+| 07-04-2022 	| *Online* 	    | [Excel VBA](../vba/online_07042022.md){: .btn .btn-green }           	|
 | 08-04-2022 	| Opgave 3    	| [Link til opgaver](../opgaver/README.md)                             	|
 | 14-04-2022 	| **Påske**    	|                                                                     	|
 | 21-04-2022 	| **Fremmøde**  | [Excel VBA programmering](../vba/README.md)                         	|
