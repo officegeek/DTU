@@ -2,6 +2,7 @@
 layout: default
 title: VBA
 nav_order: 5
+has_children: true
 ---
 <span class="fs-1">
 [HOME](../README.md){: .btn .btn-blue }
@@ -23,7 +24,6 @@ Du aktivere den på følgende måde:
 3. Tilpas båndet
 4. Sæt hak ud for *Udvikler*
 5. Klik Ok
-
 
 ## Makrooptageren
 Det er muligt at optage dine makroer, det er dog ikke alt der kan optages. Det at optage en makro kan også bruges til at lære hvordan du programmere i VBA, f.eks. hvis du ikke ved hvordan man via VBA gør en celle's tekst fed - så kan du optage det og genbruge det i din egen kode.

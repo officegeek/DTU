@@ -21,16 +21,30 @@ Det er databasen MySQL vi skal bruge og programmet MySQL Workbench.
 
 [Download MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 
+## Azure
+I kommer til at arbejde med en MySQL database der er hostede på Azure i deres cloud løsning.
+
+Fordelen ved det er at i ikke skal skal oprette databasen, tabeller og indsætte data. Det afspejler også godt de opgaver i kommer til at udfører senere, det vil være det færreste af jer der skal oprette en data base fra grunden.
+
+### Login MySQL
+I Workbench skal i oprette forbindelse til Azure databasen **Northwind**, med disse indstillinger:
+
+- Server name: **test-tueh.mysql.database.azure.com**
+- Login name: **dtu**
+- Password: *udleveres i undervisningen*
+
+![](./image/DTU_Workbench_2.jpg)
+
 ## Northwind
 *The Northwind database is a sample database used by Microsoft to demonstrate the features of some of its products, including SQL Server and Microsoft Access. The database contains the sales data for Northwind Traders, a fictitious specialty foods exportimport company.*
 
-[SQL script der opretter Northwind](https://www.dropbox.com/s/kdnxnq8zz8idp9i/Northwind.sql?dl=0)
+[SQL script der opretter Northwind](./image/Northwind.sql)
 
 ### Northwind ER-diagram
 E/R-diagrammer (Entitets/Relations-diagram) er et værktøj til at modellere databaser. 
 E/R diagrammer viser alle entiteter i en database samt relationerne imellem dem. Informationerne herfra benyttes, når databasen oprettes.
 
-![ER_Northwind](./ER_Northwind.png)
+![ER_Northwind](./image/ER_Northwind.png)
 
 ## Normalisering
 Formået med normalisering er at undgå redundans og gøre databasen lettere at vedligeholde.
@@ -46,7 +60,7 @@ Typisk fortager man kun en normalisering op til den tredje normalform.
 
 **Definition:** *En relation er på første normalform, hvis ingen af dens domæner har elementer, der i sig selv er mængder.*
 
-* Tabellen har et nøglefelt (behøver ikke at være unikt)
+* Tabellen har et nøglefelt (*behøver ikke at være unikt*)
 * Der må kun være en værdi af samme type i hver post
 * Alle poster skal være lige lange dvs. have samme antal felter
 
@@ -55,16 +69,16 @@ Typisk fortager man kun en normalisering op til den tredje normalform.
 
 **Definition:** *En relation er på anden normalform, hvis den er på første normalform, og hvis enhver ikke-nøgle-attribut er fuldt funktionelt afhængig af enhver kandidatnøgle i relationen.*
 
-* Tabellen skal opfylder 1. Normalform
-* Der skal være en primærnøgle
+- Tabellen skal opfylder 1. Normalform
+- Der skal være en primærnøgle
 
 
 **3. normalform (NF3)**
 
 **Definition:** *En relation er på tredje normalform, hvis den er på anden normalform og det gælder, at ingen ikke-nøgle-attribut er transitivt afhængig af nogen kandidatnøgle i relationen.*
 
-* Tabellen skal opfylder 2. Normalform
-* Hvis der er mere end et felt der kan sættes som nøgle for andre felter skal tabellen opdeles i flere
+- Tabellen skal opfylder 2. Normalform
+- Hvis der er mere end et felt der kan sættes som nøgle for andre felter skal tabellen opdeles i flere
 
 
 ### Eksempel - Skole
@@ -72,28 +86,28 @@ Udgangspunktet er et regneark der bruges til at register elever og deres karakte
 
 **NF 0**
 
-![Skole_NF0](./Skole_NF0.png)
+![Skole_NF0](./image/Skole_NF0.png)
 
 *Hvad er problemet?*
 
 **NF 1**
 
-![Skole_NF1](./Skole_NF1.png)
+![Skole_NF1](./image/Skole_NF1.png)
 
 **NF 2**
 
-![Skole_NF2](./Skole_NF2.png)
+![Skole_NF2](./image//Skole_NF2.png)
 
 **NF 3**
 
-![Skole_NF3](./Skole_NF3.png)
+![Skole_NF3](./image/Skole_NF3.png)
 
 
 **ER-Diagram**
 
 Over Skole i normalform 3. Med angivelse af datatyper og relationer melle de 5 tabeller.
 
-![ER_Skole](./ER_Skole.png)
+![ER_Skole](./image/ER_Skole.png)
 
 Du kan bruge Workbench til at tegne dit ER-diagram. Jeg vil dog altid anbefale at du starter med tegne ER-Diagrammet på et stykke papir.
 
@@ -107,9 +121,9 @@ En fremmednøgle er et felt i en tabel, som peger på en primærnøgle i en ande
 
 Der findes tre typer af relationer:
 
-* En til Mange
-* En til En
-* Mange til Mange
+- En til Mange
+- En til En
+- Mange til Mange
 
 
 **En til Mange**
@@ -122,27 +136,27 @@ Hver kunde står kun en gang i **Customeres** tabellen, men da hver kunde har en
 
 Det vil sige at relationen går fra primær nøglen **CustomerID** (*En siden*) i tabellen **Customeres** til fremmednøglen i, CustomerID i tabellen **Orderes** (*Mange siden*).
 
-![EnTilMangeRelation](./EnTilMangeRelation.png)
+![EnTilMangeRelation](./image/EnTilMangeRelation.png)
 
 
 **En til En**
 
 Denne relations type bruges kun brugt af to grunde:
 
-* Sikkerhed
-* Opdeling af en meget stor tabel
+- Sikkerhed
+- Opdeling af en meget stor tabel
 
 Årsagen er at man ligeså godt kunne have alle data i en tabel.
 
 **Eksempel**
 
-![EnTilRelation](./EnTilRelation.png)
+![EnTilRelation](./image/EnTilRelation.png)
 
 Et eksempel kunne være fortrolige oplysninger som:
 
-* Cpr nummer
-* Løn
-* Pension
+- Cpr nummer
+- Løn
+- Pension
 
 Der er gemt i en selvstændig tabel som så er relateret til en tabel med det mere "almindelige" oplysninger som navn, mobilnummer, e-mail osv.
 
@@ -158,36 +172,36 @@ Der er altså en **Mange til Mange** relation mellem tabellerne **Orders** og **
 
 Dette løses var at oprette en ekstra tabel - Order_details - Da denne relationen melle de to tabeller **ikke** kan oprettes direkte.
 
-![MangeTilMangeRelation](./MangeTilMangeRelation.png)
+![MangeTilMangeRelation](./image/MangeTilMangeRelation.png)
 
 ## JOIN
 Du skal bruge SQL kommandoen **JOIN** for hente data fra flere tabeller.
 
 Der findes 4 forskellige **JOIN** typer:
 
-* INNER JOIN  
-* LEFT JOIN  
-* RIGHT JOIN
-* FULL JOIN (ikke understøttet i MySQL)
-* SELF JOIN
+- INNER JOIN  
+- LEFT JOIN  
+- RIGHT JOIN
+- FULL JOIN (*ikke understøttet i MySQL*)
+- SELF JOIN
 
 ### INNER JOIN
 
 Henter fællesmængden fra de to tabeller - Altså der hvor værdierne er ens.
 
-![inner-1](./inner-1.png)
+![inner-1](./image/inner-1.png)
 
 ### LEFT JOIN
 Henter alle data fra den venstre tabel (*table1*) og de data der matcher fra den anden tabel (*tabel2*).
 
-![left_Join](./left_Join.png)
+![left_Join](./image/left_Join.png)
 
 Kaldes også **LEFT OUTER JOIN**
 
 ### RIGHT JOIN
 Henter alle data fra den højre tabel (*table2*) og de data der matcher fra den anden tabel (*tabel1*).
 
-![right_Join](./right_Join.png)
+![right_Join](./image/right_Join.png)
 
 Kaldes også **RIGHT OUTER JOIN**
 
@@ -197,7 +211,7 @@ Der findes også en **FULL JOIN**, der henter alle data fra begge tabeller.
 
 **Bemærk** at MySQL **IKKE** understøtter **FULL JOIN**
 
-![full_join](./full_join.png)
+![full_join](./image/full_join.png)
 
 ### SELF JOIN
 En **SELF JOIN** joiner en tabel med sig selv.
@@ -273,7 +287,7 @@ Der er to forskellige muligheder for  kommentarer
 - På en enkelt linje - her brugere du: --
 - Over flere linjer - her brugere du: /* kommentar */
 
-**Eksempeler på en kommentar på en linje**
+**Eksempler på en kommentar på en linje**
 
 ```sql
 --Select all
@@ -606,7 +620,7 @@ ON Orders (CustomerID);
 
 Brugeren kan ikke se de indexer der er oprette, men du kan se dem under den enkelte tabel i mappen **Indexes**
 
-![](./Index_1.png)
+![](./image/Index_1.png)
 
 Det er også muligt at oprette et index hvor du kombinere flere kolonner.
 
