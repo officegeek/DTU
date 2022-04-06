@@ -22,6 +22,8 @@ Her finder du filer der skal bruge på dette kursus.
 
 ## VBA
 - [VBA Online 24-03-2022 - Word eksport](../vba/filer/online_24032022_slut.xlsm)
+- [online_31032022.xlsm](../vba/filer/online_31032022.xlsm)
+- [online_07042022.xlsm](../vba/filer/online_07042022.xlsm)
 
 ## Opgave filer
 - [Opgave 1 - DTU_Opgave_1.xlsx](../filer/DTU_Opgave_1.xlsx)
