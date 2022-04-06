@@ -8,22 +8,26 @@ nav_order: 7
 </span>
 
 # Opgaver
-Alle opgaver skal afleveres på DTU Learn - 
+Alle opgaver skal afleveres på DTU Learn.
 
 ## Opgave 1
-Informationen om opgave 1. finder du i Excel filen [DTU_Opgave_1.xlsx](..//filer/DTU_Opgave_1.xlsx)
+Informationen om opgave 1. finder du i Excel filen [DTU_Opgave_1.xlsx](..//filer/DTU_Opgave_1.xlsx).
 
-Det er også denne fil du skal aflevere på DTU Learn
+Det er også denne fil du skal aflevere på DTU Learn.
 
 ## Opgave 2
-Information om opgave 2. finder du i PDF filen [GanttOpgave.pdf](./GanttOpgave.pdf)
+Information om opgave 2. finder du i PDF filen [GanttOpgave.pdf](./opgave_2/GanttOpgave.pdf).
 
-Teksten til opgaven kan du med fordel finde i Excel filen [Board_Room.xlsx](../filer/Board_Room.xlsx)
+Teksten til opgaven kan du med fordel finde i Excel filen [Board_Room.xlsx](../filer/Board_Room.xlsx).
 
-Det er GanttProject filen du skal aflevere på DTU Learn
+Det er GanttProject filen du skal aflevere på DTU Learn.
 
 ## Opgave 3
-Fokus på Databaser, Power Query og VBA
+Fokus på data import, Power Query, data model og VBA.
+
+Opgavebeskrivelsen finder du [her](./opgave_3/Opgave%203.pdf).
+
+På DTU Learn er det Excel filen **DataAnalyse.xlsm** og **PowerPoint filen** der skal afleveres.
 
 ## Opgave 4
-Samler alt det i har været igennem
+Samler alt det i har været igennem.

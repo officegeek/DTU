@@ -1,0 +1,41 @@
+customer_id;first_name;last_name;address;postcode;city;country;ascii_safe_email;date_of_birth
+1;Gerald;Conley;"79655 Monica Gardens Apt. 008
+North Michelle, CT 71509";05731;South Karla;Monaco;howellmichael@example.net;13-11-1996
+2;James;Andrews;"6898 Savannah Hills
+North Ericfurt, OH 54896";32724;Floresberg;Algeria;patricia91@example.org;01-09-1925
+3;Amanda;Green;"6516 Jenkins Bypass
+Tracyville, AL 31347";34558;Dickersonport;Aruba;gonzalezjoshua@example.net;21-04-2001
+4;Jacqueline;White;"58737 Ramos Greens
+South Rachel, NM 67398";21883;West Aaron;Cote d'Ivoire;sherri31@example.net;28-07-1980
+5;Shane;Castro;"39728 Cooper Terrace Apt. 723
+East Kathleenburgh, TN 18838";28098;Jacksonton;Malta;cbrown@example.com;02-04-1963
+6;Mason;Ellison;"919 Ashley Club
+New Kevinshire, OK 53250";19880;Bradborough;Thailand;scottpatricia@example.com;08-06-2014
+7;Jennifer;Austin;"Unit 3029 Box 7466
+DPO AP 66131";14530;Smithshire;Libyan Arab Jamahiriya;sandrathomas@example.org;03-03-2011
+8;Michael;Lopez;"4461 Kelly Viaduct Apt. 258
+Taylorborough, IN 84669";47137;Michealburgh;Denmark;stonechristina@example.net;09-11-1987
+9;Dennis;Evans;"624 Dalton Extension Suite 880
+Smithtown, TN 17181";30144;Rodriguezside;Uzbekistan;donovanandrew@example.com;07-10-1927
+10;Bryan;Phillips;"295 Patel Shoals Apt. 852
+Parrishport, CT 82053";60226;Williamsfurt;Niue;sanchezrebecca@example.com;09-05-2011
+11;Bruce;Erickson;"25785 Carolyn Key
+Kristenview, NY 83420";78175;Port Jimbury;Niger;ariel68@example.com;28-02-2020
+12;Wayne;Hernandez;"78059 Graves Stream
+Rodneyfort, MS 63633";98909;Michaelview;Congo;wisebrittany@example.org;26-09-1971
+13;Robert;Thomas;"062 Ferrell Knoll Apt. 500
+Floresside, IA 88310";81751;Michaelberg;Western Sahara;megan10@example.org;07-08-1953
+14;Lauren;Christensen;"431 Jessica Bridge Apt. 760
+New Robert, CA 97232";90606;South Emily;Hungary;wsanford@example.com;16-07-2020
+15;Megan;Hancock;"85172 Hernandez Key Apt. 763
+Frazierchester, MA 57736";35711;Stevenville;Belize;chaneygrace@example.org;12-06-2020
+16;Tracy;James;"199 John Summit
+Lake Shelby, NH 14223";91696;New Seanhaven;Turkmenistan;brittany25@example.com;04-05-1956
+17;Joseph;Booker;"98175 Tara Path
+Brittneyberg, GA 14942";51235;Christychester;Bhutan;jenniferlewis@example.net;14-09-1993
+18;Matthew;Torres;"550 Janice Junction Apt. 472
+Whitehaven, PA 26263";58943;North Brandon;French Southern Territories;tyoung@example.org;20-09-1974
+19;Abigail;Jones;"37412 Daniel Turnpike Suite 610
+Juanfurt, TN 03996";64367;Jacksonborough;Uganda;edwardshelton@example.org;11-09-1985
+20;Tamara;Gray;"19945 Chelsea Estate Apt. 488
+North Mark, RI 52895";53516;Andradeport;Grenada;eddiemartinez@example.org;12-10-1909
