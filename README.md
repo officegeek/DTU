@@ -26,10 +26,20 @@ Oversigt over de enkelte undervisningsgange
 ## Online gange
 Der er 6 undervisnings gange der er online, her finder du links til disse:
 
-- [17-02-2022 - Fokus på Excel](./excel/online_17022022.md)
-- [17-03-2022 - Introduktion til VBA](./vba/online_17032022.md)
-- [24-03-2022 - VBA](./databaser/online_24032022.md)
-- [31-03-2022 - VBA](./vba/online_31032022.md)
+- [15-09-2022 - Excel](./online/15092022.md)
+- [06-10-2022 - Excel Data - Power Query - Database - SQL](./online/06102022.md)
+- [13-10-2022 - Excel Data - Power Query - Database - SQL](./online/13102022.md)
+- [27-10-2022 - Excel Office Script](./online/27102022.md)
+- [17-11-2022 - Microsoft Power BI](./online/17112022.md)
+- [15-12-2022 - Opsamling](./online/24032022.md)
+
+
+| Opgave   | Afleverings dato      |
+|----------|-----------------------|
+| Opgave 1 | Fredag den 23-09-2022 |
+| Opgave 2 | Fredag den 14-10-2022 |
+| Opgave 3 | Fredag den 25-11-2022 |
+| Opgave 4 | Fredag den 16-12-2022 |
 
 ## Eksamen
 Det er et **Bestået/Ikke Bestået** modul, hvor der skal afleveres 4 opgaver i løbet af semestret, som skal godkendes for at bestå
