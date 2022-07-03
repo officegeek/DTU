@@ -39,7 +39,7 @@ De 6 online gange bliver du undervist via videoer der er optaget og tilhørende 
 | 01-12-2022 	| **Fremmøde** 	| [Excel VBA](../vba/README.md)                                     	|
 | 08-12-2022 	| **Fremmøde** 	| [Excel VBA](../vba/README.md)                   	                    |
 | 15-12-2022 	| *Online*  	| Opsamling                                                            	|
-| 16-12-2022 	| Opgave 4      | [Opgave 4](../opgaver/README.md){: .btn .btn-blue }                   |
+| 16-12-2022 	| Opgave 4      | [Link til opgaver](../opgaver/README.md){: .btn .btn-blue }                   |
 
 
 ## Opgaver
