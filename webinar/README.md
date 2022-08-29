@@ -17,7 +17,7 @@ For dem der er interesserede i en introduktion til hvordan Python og Excel kan b
 *Varigheden på dette webinar er 1,5 time*
 
 ## Office Scripts
-Jeg holder den **17-11-2021** et webinar omkring Office Scripts, hvis det har jeres interesse kan tilmelde jer [her](https://ida.dk/arrangementer-og-kurser/arrangementer/introduktion-til-excel-online-scripts-webinar-341158)
+Jeg holdt den **17-11-2021** et webinar omkring Office Scripts [Se det her](https://videos.ida.dk/media/Introduktion%20til%20Excel%20Online%20Scripts%20/1_4orkvtd6)
 
 
 ## Webinarer generelt
