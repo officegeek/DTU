@@ -15,7 +15,7 @@ Alle opgaver skal afleveres på DTU Learn.
 | Opgave 1 | Fredag den 23-09-2022 |
 | Opgave 2 | Fredag den 14-10-2022 |
 | Opgave 3 | Fredag den 25-11-2022 |
-| Opgave 4 | Fredag den 16-12-2022 |
+| Opgave 4 | Fredag den 08-12-2022 |
 
 ## Opgave 1
 Informationen om opgave 1. finder du i Excel filen [DTU_Opgave_1.xlsx](..//filer/DTU_Opgave_1.xlsx).
