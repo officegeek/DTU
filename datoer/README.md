@@ -22,7 +22,7 @@ De 6 online gange bliver du undervist via videoer der er optaget og tilhørende 
 |------------	|--------------	|---------------------------------------------------------------------	|
 | 01-09-2022 	| **Fremmøde** 	| [Excel](../excel/README.md)                                         	|
 | 08-09-2022 	| **Fremmøde** 	| [Excel](../excel/README.md)                                         	|
-| 15-09-2022 	| **Online* 	| [Excel](../excel/README.md)                                       	|
+| 15-09-2022 	| *Online* 	| [Excel](../excel/README.md)                                       	|
 | 22-09-2022 	| **Fremmøde** 	| [Project Software](../microsoftproject/README.md)                    	|
 | 23-09-2022 	| Opgave 1   	| [Link til opgaver](../opgaver/README.md){: .btn .btn-blue }          	|
 | 29-09-2022 	| **Fremmøde** 	| [Project Software](../microsoftproject/README.md)                    	|
