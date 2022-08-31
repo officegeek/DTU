@@ -22,13 +22,3 @@ Det findes i versioner til; Windows, MacOS og Linux. Det er frigivet under GLP l
 
 - [GanttProject](./ganttproject.md)
 - [Microsoft Project](./microsoftproject.md)
-
-
-## GanttProject
-På dette kursus kommer vi til at bruge GanttProject, specielt ud fra 3 grunde:
-
-- Det er gratis at hente og bruge
-- Det kan installeres på både macOS og Windows
-- Det er ikke mere muligt at hente Microsoft Project for DTU Studerende
-
-[GanttProject](./ganttproject.md){: .btn .btn-gren }
