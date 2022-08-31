@@ -15,7 +15,7 @@ Jeg har siden 1995 arbejdet som selvstændig konsulent indenfor følgende områd
 - Databaser - Microsoft SQL Server, MySQL, NoSQL
 - Projektledelse - It-projekter - SCRUM
 - Systemudvikling - Fokus på agil udvikling med SCRUM som metode
-- Statistik - R programmering og Python - test
+- Statistik - R programmering og Python
 
 Ud over mine konsulentopgaver har jeg undervist indenfor de sammen emner, både direkte for virksomheder og for kursusvirksomheder. Desuden underviser jeg på KEA, Datamatiker uddannelsen og Økonomi og IT-uddannelsen.
 
