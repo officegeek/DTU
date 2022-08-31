@@ -1,11 +1,13 @@
+---
+layout: default
+title: Gantt diagram i Excel
+nav_order: 30
+parent: Excel
+---
+
 <span class="fs-1">
 [HOME](./README.md){: .btn .btn-blue }
 </span>
-
-layout: default
-title: Gantt diagram i Excel
-nav_order: 20
-parent: Excel
 
 # Gantt
 Et Gantt diagram er en oversigt, som viser hvert skridt, der skal tages for at gennemføre et projekt fra A til Z. 
