@@ -13,7 +13,15 @@ Her finder du filer der skal bruge på dette kursus.
 ## Excel
 - [Excel_Dag_1.xlsx](./Excel_Dag_1.xlsx)
 - [Excel_Dag_2.xlsx](./Excel_Dag_2.xlsx)
+- [sales_data.xlsx](./sales_data.xlsx)
 - [Gantt](./Gantt_Studerende_Start.xlsx)
+
+## CSV
+- [employees.csv](./employees.csv)
+- [customers.csv](./customers.csv)
+- [order.csv](./order.csv)
+- [orderline.csv](./orderline.csv)
+- [products.csv](./products.csv)
 
 ## Microsoft Project
 

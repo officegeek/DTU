@@ -9,6 +9,9 @@ has_children: true
 </span>
 # Excel
 
+## Excel files
+Jeg har nogle forskellige filer som jeg brugere i forbindelse med Excel undervisningen, dem finder du under [Filer](../filer/README.md)
+
 ## Excel funktioner
 Excel har over 300 indbyggede funktioner, nogle af dem kender du sikkert, f.eks. **SUM**
 
