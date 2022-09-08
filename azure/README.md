@@ -52,7 +52,7 @@ For at komme din på den virtuelle machine, bruge den, skal du brugere Remote De
 
 ![](https://docs.microsoft.com/en-us/azure/lab-services/media/connect-virtual-machine-mac-remote-desktop/install-remote-desktop.png)
 
-### Video - Login
+### Video - Login - Fra Windows :-)
 
 <div style="position: relative; padding-bottom: NaN%; height: 0;"><iframe src="https://www.loom.com/embed/09c3488e57b3413b9a2b62c144b59293" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -64,6 +64,8 @@ Du skal installere de to programmer på den virtuelle machine
 - Microsoft Power BI Desktop
 
 ### Microsoft Project
+Dette gælder primært MAC brugere, men nogle gange er der en konflikt mellem specielt gamle Office installationer på en Windows computer. Hvis det er tilfældet er det nemmest at bruge en virtuel machine.
+
 Først skal du hente installationsfilen til Microsoft Project på [https://aka.ms/devtoolsforteaching](https://aka.ms/devtoolsforteaching).
 
 På den virtuelle machine skal du gøre følgende:
@@ -77,7 +79,24 @@ På den virtuelle machine skal du gøre følgende:
 
 Det næste du skal gøre er at installere Microsoft Project.
 
--  FGin den ISO fil du har downloadet
+- Find den ISO fil du har downloadet
+- Klik på og vælg Mount
+- Følg installations vejledningen
 
+#### Video - Microsoft Project
 
-### 
+<div style="position: relative; padding-bottom: NaN%; height: 0;"><iframe src="https://www.loom.com/embed/af731f9b0531473689f0c091643f4821" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+### Power BI Desktop
+Det er ikke muligt at installere Microsoft Power BI Desktop på en Mac, så det skal du gøre på den virtuelle machine.
+
+[https://powerbi.microsoft.com/en-us](https://powerbi.microsoft.com/en-us/)
+
+- Login på den virtuelle machine - RDP
+- Klik på **Microsoft Store**
+- Søg efter **Power BI**
+- Install - *PS. kan godt gøres uden Microsoft konto*
+
+#### Video - Microsoft Power BI Desktop
+
+<div style="position: relative; padding-bottom: NaN%; height: 0;"><iframe src="https://www.loom.com/embed/7ddf725e26434998b16a13656596c729" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
