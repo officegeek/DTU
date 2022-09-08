@@ -93,9 +93,7 @@ Det næste du skal gøre er at installere Microsoft Project.
 <div style="position: relative; padding-bottom: NaN%; height: 0;"><iframe src="https://www.loom.com/embed/af731f9b0531473689f0c091643f4821" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Power BI Desktop
-Det er ikke muligt at installere Microsoft Power BI Desktop på en Mac, så det skal du gøre på den virtuelle machine.
-
-[https://powerbi.microsoft.com/en-us](https://powerbi.microsoft.com/en-us/)
+Det er ikke muligt at installere Microsoft Power BI Desktop på en Mac, så det skal du gøre på den virtuelle machine - [https://powerbi.microsoft.com/en-us](https://powerbi.microsoft.com/en-us/)
 
 - Login på den virtuelle machine - RDP
 - Klik på **Microsoft Store**
