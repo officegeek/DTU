@@ -10,8 +10,6 @@ nav_order: 130
 # Azure
 Microsoft Azure er en cloud computingplatform og infrastruktur, der er skabt af Microsoft.
 
-![](https://estradaci.com/microsoft-azure-service-levels-to-accommodate-your-needs/azure-logo/)
-
 Hvis du har en MAC computer skal du oprette en virtuel machine der har Windows som styresystem. Årsagen er at du skal installere to programmer der kun fås til Windows platformen:
 
 - Microsoft Project
@@ -59,8 +57,6 @@ For at komme din på den virtuelle machine, bruge den, skal du brugere Remote De
 ### Luk ned - Vigtigt
 Da i har en limit på 200 USD er det vigtigt at i **lukker den virtuelle machine når i ikke bruger den**!
 
-<div style="position: relative; padding-bottom: NaN%; height: 0;"><iframe src="https://www.loom.com/embed/a1677e7e70e24c278bb6f529da566998" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a1677e7e70e24c278bb6f529da566998" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
@@ -86,11 +82,11 @@ På den virtuelle machine skal du gøre følgende:
 
 Det næste du skal gøre er at installere Microsoft Project.
 
-- Find den ISO fil du har downloadet
-- Klik på og vælg Mount
+- Find den **ISO fil** du har downloadet
+- Klik på og vælg **Mount**
 - Følg installations vejledningen
 
-#### Video - Microsoft Project
+### Video - Microsoft Project - test
 
 <div style="position: relative; padding-bottom: NaN%; height: 0;"><iframe src="https://www.loom.com/embed/af731f9b0531473689f0c091643f4821" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -100,8 +96,8 @@ Det er ikke muligt at installere Microsoft Power BI Desktop på en Mac, så det 
 - Login på den virtuelle machine - RDP
 - Klik på **Microsoft Store**
 - Søg efter **Power BI**
-- Install - *PS. kan godt gøres uden Microsoft konto*
+- Install - *PS. Kan godt gøres uden Microsoft konto*
 
-#### Video - Microsoft Power BI Desktop
+### Video - Microsoft Power BI Desktop - test
 
 <div style="position: relative; padding-bottom: NaN%; height: 0;"><iframe src="https://www.loom.com/embed/7ddf725e26434998b16a13656596c729" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
