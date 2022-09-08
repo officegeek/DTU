@@ -2,7 +2,7 @@
 layout: default
 title: Microsoft Office Scripts
 has_children: true
-nav_order: 6
+nav_order: 50
 ---
 <span class="fs-1">
 [HOME](../README.md){: .btn .btn-blue }

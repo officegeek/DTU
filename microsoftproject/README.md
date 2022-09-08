@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project
-nav_order: 4
+nav_order: 30
 has_children: true
 ---
 <span class="fs-1">

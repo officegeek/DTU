@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Opgaver
-nav_order: 7
+nav_order: 90
 ---
 <span class="fs-1">
 [HOME](../README.md){: .btn .btn-blue }

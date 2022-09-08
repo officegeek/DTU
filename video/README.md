@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tidligere videoer
-nav_order: 8
+nav_order: 100
 ---
 <span class="fs-1">
 [HOME](../README.md){: .btn .btn-blue }
