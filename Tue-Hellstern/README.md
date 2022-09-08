@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tue Hellstern
-nav_order: 10
+nav_order: 150
 ---
 <span class="fs-1">
 [HOME](../README.md){: .btn .btn-blue }
