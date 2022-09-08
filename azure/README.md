@@ -10,7 +10,7 @@ nav_order: 130
 # Azure
 Microsoft Azure er en cloud computingplatform og infrastruktur, der er skabt af Microsoft.
 
-<img src="https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg"  width=50% height=50%>
+<div><img src="https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg"  width=50% height=50%></div>
 
 ![](https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg)
 
