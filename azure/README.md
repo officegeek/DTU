@@ -56,6 +56,9 @@ For at komme din på den virtuelle machine, bruge den, skal du brugere Remote De
 
 <div style="position: relative; padding-bottom: NaN%; height: 0;"><iframe src="https://www.loom.com/embed/09c3488e57b3413b9a2b62c144b59293" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+### Luk ned - Vigtigt
+Da i har en limit på 200 USD er det vigtigt at i **lukker den virtuelle machine når i ikke bruger den**!
+
 
 ## Installation af programmer
 Du skal installere de to programmer på den virtuelle machine
