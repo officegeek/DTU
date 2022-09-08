@@ -41,6 +41,7 @@ DTU har oprette en vejledning til hvordan du opretter dig på Azure og får adga
 ### Video
 Jeg har oprette en video der vier hvordan du opretter den virtuelle machine.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/69508c07a13348988b950b935e139ed0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 ## Adgang til den virtuelle machine - RDP
@@ -50,6 +51,10 @@ For at komme din på den virtuelle machine, bruge den, skal du brugere Remote De
 - [Connect to a VM using Remote Desktop Protocol on Windows](https://docs.microsoft.com/en-us/azure/lab-services/connect-virtual-machine-windows-rdp)
 
 ![](https://docs.microsoft.com/en-us/azure/lab-services/media/connect-virtual-machine-mac-remote-desktop/install-remote-desktop.png)
+
+### Video - Login
+
+<div style="position: relative; padding-bottom: NaN%; height: 0;"><iframe src="https://www.loom.com/embed/09c3488e57b3413b9a2b62c144b59293" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 ## Installation af programmer
