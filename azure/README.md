@@ -10,6 +10,8 @@ nav_order: 130
 # Azure
 Microsoft Azure er en cloud computingplatform og infrastruktur, der er skabt af Microsoft.
 
+<img src="https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg"  width=50% height=50%>
+
 ![](https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg)
 
 Hvis du har en MAC computer skal du oprette en virtuel machine der har Windows som styresystem. Årsagen er at du skal installere to programmer der kun fås til Windows platformen:
