@@ -61,6 +61,8 @@ Da i har en limit på 200 USD er det vigtigt at i **lukker den virtuelle machine
 
 <div style="position: relative; padding-bottom: NaN%; height: 0;"><iframe src="https://www.loom.com/embed/a1677e7e70e24c278bb6f529da566998" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a1677e7e70e24c278bb6f529da566998" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 ## Installation af programmer
 Du skal installere de to programmer på den virtuelle machine
