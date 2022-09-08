@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gantt diagram i Excel
-nav_order: 30
+nav_order: 10
 parent: Excel
 ---
 

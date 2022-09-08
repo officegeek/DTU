@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Excel Fejl
-nav_order: 10
+nav_order: 40
 parent: Excel
 ---
 <span class="fs-1">
