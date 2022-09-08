@@ -50,8 +50,6 @@ For at komme din på den virtuelle machine, bruge den, skal du brugere Remote De
 - [Install Microsoft Remote Desktop on a Mac](https://docs.microsoft.com/en-us/azure/lab-services/connect-virtual-machine-mac-remote-desktop)
 - [Connect to a VM using Remote Desktop Protocol on Windows](https://docs.microsoft.com/en-us/azure/lab-services/connect-virtual-machine-windows-rdp)
 
-![](https://docs.microsoft.com/en-us/azure/lab-services/media/connect-virtual-machine-mac-remote-desktop/install-remote-desktop.png)
-
 ### Video - Login - Fra Windows :-)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/09c3488e57b3413b9a2b62c144b59293" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
