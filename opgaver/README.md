@@ -27,6 +27,8 @@ Information om opgave 2. finder du i PDF filen [Microsoft Project Opgave 2.pdf](
 
 Teksten til opgaven finde du i Excel filen [Data_Move.xlsx](./opgave_2/Data_Move.xlsx).
 
+Et fuldt overblik over opgaven finder du her: [Move.pdf](./opgave_2/Move.pdf)
+
 Det er de to Microsoft Project filer aflevere på DTU Learn:
 
 - Opgave2_DitNavn.mpp
