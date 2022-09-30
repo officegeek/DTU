@@ -37,10 +37,13 @@ DTU har oprette en vejledning til hvordan du opretter dig på Azure og får adga
 [DTU Vejledning](https://www.inside.dtu.dk/-/media/dtu-inside/medarbejder/it-og-telefoni/vejledninger/software/software-til-studerende-azure-microsoft-dk-1-.pdf)
 
 ### Video
-Jeg har oprette en video der vier hvordan du opretter den virtuelle machine.
+Jeg har oprette en video der viser hvordan du opretter den virtuelle machine.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/69508c07a13348988b950b935e139ed0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+Her har du en PDF med de indstillinger jeg brugere i videoen - [Setup PDF](./opret_azure_vm.pdf)
+
+**Husk** - Skriv *brugerenavn* og *password* ned! - Du skal bruge det når du forbinder med RDP
 
 ## Adgang til den virtuelle machine - RDP
 For at komme din på den virtuelle machine, bruge den, skal du brugere Remote Desktop Protocol (**RPD**). Microsoft har lavet en meget fin vejledning til hvordan du brugere RDP på både MAC og Windows:

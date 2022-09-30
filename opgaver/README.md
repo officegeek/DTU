@@ -23,11 +23,14 @@ Informationen om opgave 1. finder du i Excel filen [DTU_Opgave_1.xlsx](..//filer
 Det er også denne fil du skal aflevere på DTU Learn.
 
 ## Opgave 2
-Information om opgave 2. finder du i PDF filen [GanttOpgave.pdf](./opgave_2/GanttOpgave.pdf).
+Information om opgave 2. finder du i PDF filen [Microsoft Project Opgave 2.pdf](./opgave_2/Microsoft%20Project%20Opgave%202.pdf).
 
-Teksten til opgaven kan du med fordel finde i Excel filen [Board_Room.xlsx](../filer/Board_Room.xlsx).
+Teksten til opgaven finde du i Excel filen [Data_Move.xlsx](./opgave_2/Data_Move.xlsx).
 
-Det er GanttProject filen du skal aflevere på DTU Learn.
+Det er de to Microsoft Project filer aflevere på DTU Learn:
+
+- Opgave2_DitNavn.mpp
+- Ressource_DitNavn.mpp
 
 ## Opgave 3
 Fokus på data import, Power Query, data model og VBA.
