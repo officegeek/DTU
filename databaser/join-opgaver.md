@@ -2,7 +2,7 @@
 layout: default
 title: Opgaver til 06-10-2022 - JOIN
 nav_order: 1
-parent: Online 06-10-2022 - Database
+parent: Online-06-10-2022-Database
 has_children: false
 ---
 <span class="fs-1">
@@ -14,7 +14,7 @@ Du skal bruge databasen Northwind til alle opgaverne. Det er SQL sætningerne du
 
 Du skal bruge **INNER JOIN** for at løse alle opgaverne
 
-Du finder løsningen i SQL filen sql-opgaver.sql. Denne fil kan du åbne i Workbench - **Men prøv nu lige selv først!**
+Du finder løsningen i SQL filen [join-opgave.sql](./filer/join-opgave.sql). Denne fil kan du åbne i Workbench - **Men prøv nu lige selv først!**
 
 ## Opgave 1
 - Opret en SELECT sætning der viser følgende felter:
