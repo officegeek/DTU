@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Opgaver til 06-10-2022 - Database
+title: Opgaver til 06-10-2022 - SQL
 nav_order: 1
 parent: Online 06-10-2022 - Database
 has_children: false
@@ -9,12 +9,10 @@ has_children: false
 [HOME](./online-06102022.md){: .btn .btn-blue }
 </span>
 
-# Opgaver til den 06-10-2022
-
-# SQL Opgaver
+# SQL Opgaver til den 06-10-2022
 Du skal bruge databasen Northwind til alle opgaverne. Det er SQL sætningerne du skal skrive i Workbench.
 
-Du finder løsningen i SQL filen **opgave06102022.sql**. Denne fil kan du åbne i Workbench - **Men prøv nu lige selv først!**
+Du finder løsningen i SQL filen [sql-opgaver.sql](./filer/sql-opgaver.sql). Denne fil kan du åbne i Workbench - **Men prøv nu lige selv først!**
 
 ## Opgave 1
 - Vælg følgende felter fra tabellen: Customers
