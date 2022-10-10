@@ -3,7 +3,7 @@ layout: default
 title: SQL Opgaver til 13-10-2022 - SQL
 nav_order: 1
 parent: Database
-grand_parent: Online-13-10-2022
+grand_parent: Online-13102022
 has_children: false
 ---
 <span class="fs-1">
