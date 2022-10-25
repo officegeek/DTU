@@ -1,6 +1,6 @@
 ---
 layout: default
-title: microsoft-office-scripts
+title: Microsoft Office Scripts
 has_children: true
 nav_order: 50
 ---
