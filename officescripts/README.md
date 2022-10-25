@@ -7,6 +7,7 @@ nav_order: 50
 <span class="fs-1">
 [HOME](../README.md){: .btn .btn-blue }
 </span>
+
 # Microsoft Office Scripts
 Office Scripts i Excel på nettet lader dig automatisere dine daglige opgaver. 
 
@@ -28,7 +29,7 @@ Du skal specielt se på følgende scripts:
 - [Combine worksheets into a single workbook](https://docs.microsoft.com/en-us/office/dev/scripts/resources/samples/combine-worksheets-into-single-workbook)
 
 ## Video
-Tag et kik på disse videoer fra Microsoft, den giver en rigtig god introduktion
+Tag et kik på disse videoer fra Microsoft, de giver en rigtig god introduktion.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oeP4cb6rpso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -40,14 +41,13 @@ Power Automate giver dig nogle unikke muligheder for at automatisere dine Office
 
 Læs denne generelle introduktion af Power Automate fra Microsoft - [Get started with Power Automate](https://docs.microsoft.com/en-us/power-automate/getting-started)
 
-Læs denne disse introduktioner fra Microsoft der viser hvordan du kan kombinere Power Automate med Office Scripts:
+Læs disse introduktioner fra Microsoft der viser hvordan du kan kombinere Power Automate med Office Scripts:
 
 - [Run Office Scripts with Power Automate](https://docs.microsoft.com/en-us/office/dev/scripts/develop/power-automate-integration)
 - [Call scripts from a manual Power Automate flow](https://docs.microsoft.com/en-us/office/dev/scripts/tutorials/excel-power-automate-manual)
 
 Tag et kik på Microsoft eksemplet:
 
-- [Email chart and table images](https://learn.microsoft.com/en-us/office/dev/scripts/resources/samples/email-images-chart-table)
 - [Use Office Scripts and Power Automate to email images of a chart and table](https://docs.microsoft.com/en-us/office/dev/scripts/resources/samples/email-images-chart-table)
 
 ## Video
@@ -65,4 +65,3 @@ Excel Office Scripts: Cross reference Multiple Excel Files
 - [github.com/OfficeDev/office-scripts-docs](https://github.com/OfficeDev/office-scripts-docs)
 - [Office Scripts in Excel on the web](https://docs.microsoft.com/en-us/office/dev/scripts/overview/excel)
 - [Office Scripts documentation](https://docs.microsoft.com/en-us/office/dev/scripts/)
-
