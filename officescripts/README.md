@@ -47,7 +47,7 @@ Læs denne disse introduktioner fra Microsoft der viser hvordan du kan kombinere
 
 Tag et kik på Microsoft eksemplet:
 
-- [Email chart and table images]
+- [Email chart and table images](https://learn.microsoft.com/en-us/office/dev/scripts/resources/samples/email-images-chart-table)
 - [Use Office Scripts and Power Automate to email images of a chart and table](https://docs.microsoft.com/en-us/office/dev/scripts/resources/samples/email-images-chart-table)
 
 ## Video
