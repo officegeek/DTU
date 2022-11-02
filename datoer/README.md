@@ -14,7 +14,7 @@ Undervisningen er fordel på:
 - 8 fremmøde gange
 - 5 *online* gange
 
-De 6 online gange bliver du undervist via videoer der er optaget og tilhørende opgaver.
+De 5 online gange bliver du undervist via videoer der er optaget og tilhørende opgaver.
 
 ## Datoer efteråret 2022
 
