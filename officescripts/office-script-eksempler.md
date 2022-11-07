@@ -107,3 +107,31 @@ function main(workbook: ExcelScript.Workbook) {
 
 ## Kombiner Power Automate og Office Scripts
 I dette eksempel har du til opgave at registrere ændringer i en Excel fil hver dag og sende ændringen siden i går via en e-mail.
+
+```basic
+function main(workbook: ExcelScript.Workbook, newData: string): string {
+  // Get the table by its name.
+  const table = workbook.getTable("ReadingTable");
+
+  // Read the current last entry in the Reading column.
+  const readingColumn = table.getColumnByName("Reading");
+  const readingColumnValues = readingColumn.getRange().getValues();
+  const previousValue = readingColumnValues[readingColumnValues.length - 1][0] as number;
+
+  // Add a row with the date, new value, and a formula calculating the difference.
+  const currentDate = new Date(Date.now()).toLocaleDateString();
+  const newRow = [currentDate, newData, "=[@Reading]-OFFSET([@Reading],-1,0)"];
+  table.addRow(-1, newRow,);
+
+  // Return the difference between the newData and the previous entry.
+  const difference = Number.parseFloat(newData) - previousValue;
+  console.log(difference);
+  return difference;
+}
+```
+
+### Power Automate
+
+- Åben Power Automate
+- Vælg Scheduled cloud flow
+- 
