@@ -152,32 +152,3 @@ Sub SorterArkAlfabetisk()
 End Sub
 ```
 
-# Funktioner - User Define Functions
-Excel her over 200 indbyggede funktioner men det er også muligt at oprette dine egne funktioner - **User Define Functions**.
-
-Du brugere dine egne funktioner på sammen måde som de indbyggede i Excel.
-
-## Vis kun tal fra en celle
-Med denne funktion kan du udtrække alle tal.
-
-```basic
-Function FindTal(CellRef As String)
-    ' Variable
-    Dim TekstLen As Integer
-    Dim i As Integer
-    Dim Tal As Double
-    
-    ' Find længden af teksten
-    TekstLen = Len(CellRef)
-    
-    ' Gennemløb af teksten
-    For i = 1 To TekstLen
-        If IsNumeric(Mid(CellRef, i, 1)) Then
-            Tal = Tal & Mid(CellRef, i, 1)
-        End If
-    Next i
-    
-    ' Retuner
-    FindTal = Tal
-End Function
-```
