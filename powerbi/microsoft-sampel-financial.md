@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Microsoft Financial Sample
-parent: Microsoft Power BI
+parent: Power-BI
 has_children: false
 nav_order: 10
 ---
@@ -20,8 +20,6 @@ Du kan hente den her - [Financial Sample Excel workbook](https://go.microsoft.co
 Du kan også tilgå data direkte fra Power BI Desktop.
 
 ![](./image/sample_data.jpg)
-
-Vælg Prøv et eksempeldatasæt fra den gule velkomstskærm eller fra det tomme lærred.
 
 # Microsoft vejledninger
 - [Power BI Desktop: From Excel workbook to stunning report](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-excel-stunning-report)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Power BI sample dataset
-parent: Microsoft Power BI 
+parent: Power-BI
 has_children: false
 nav_order: 20
 ---
