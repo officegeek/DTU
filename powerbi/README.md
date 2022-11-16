@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Power BI
+title: Power-BI
 has_children: true
 nav_order: 70
 ---
