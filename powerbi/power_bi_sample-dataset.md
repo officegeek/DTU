@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Power BI sample dataset
-parent: Power-BI 
+parent: Microsoft Power BI 
 has_children: false
-nav_order: 40
+nav_order: 20
 ---
 
 <details open markdown="block">

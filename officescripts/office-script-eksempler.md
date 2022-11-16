@@ -1,3 +1,11 @@
+---
+layout: default
+title: Office Script Eksempler
+parent: Microsoft Office Scripts
+has_children: false
+nav_order: 10
+---
+
 # Office Script Eksempler
 Her er nogle Microsoft Office Script eksempler.
 

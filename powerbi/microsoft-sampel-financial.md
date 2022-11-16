@@ -1,28 +1,28 @@
 ---
 layout: default
 title: Microsoft Financial Sample
-parent: Power-BI
+parent: Microsoft Power BI
 has_children: false
-nav_order: 30
+nav_order: 10
 ---
 
-# Financial Sample Excel workbook for Power BI
-Microsoft have a simple Excel workbook of sample financial data.
+# Financial Sample Excel workbook
+Microsoft har oprette et eksempel på et dashboard fro nogle finansielle data, den er et godt eksempel på hvordan du kan oprettet en rapport.
 
 ![](./image/power-bi-excel-formatted-report.png)
 
-This workbook has a table of sales and profit data sorted by market segment and country.
+Den indeholder en tabel med salgsdata, profit data sorteret efter markeds segmenter og lande.
 
-## Download it directly
-You can download it directly: [Financial Sample Excel workbook](https://go.microsoft.com/fwlink/?LinkID=521962)
+## Download Excel filen
+Du kan hente den her - [Financial Sample Excel workbook](https://go.microsoft.com/fwlink/?LinkID=521962)
 
-# Get the sample in Power BI Desktop
-You can also download it from Power BI Desktop. Select Try a sample dataset from the yellow welcome screen or from the blank canvas.
+# Download data direkte i Power Bi
+Du kan også tilgå data direkte fra Power BI Desktop.
 
 ![](./image/sample_data.jpg)
 
-# Next steps
-Here are two tutorials that use this Financial sample data:
+Vælg Prøv et eksempeldatasæt fra den gule velkomstskærm eller fra det tomme lærred.
 
+# Microsoft vejledninger
 - [Power BI Desktop: From Excel workbook to stunning report](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-excel-stunning-report)
 - [Power BI service: From Excel workbook to stunning report](https://learn.microsoft.com/en-us/power-bi/create-reports/service-from-excel-to-stunning-report)
