@@ -1,3 +1,10 @@
+---
+layout: default
+title: User Define Functions
+parent: VBA
+nav_order: 30
+---
+
 # Funktioner - User Define Functions
 Excel har over 450 indbyggede funktioner, men du kan også oprette dine egne Excel funktioner - **User Define Functions** også kaldet **UDF**.
 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Makro Eksempler
+parent: VBA
+nav_order: 20
+---
+
 # Makro Eksempler
 Her er nogle eksempler på makroer der kan gøre dit daglige arbejde i Excel lidt nemmere.
 
