@@ -2,7 +2,7 @@
 layout: default
 title: Opgaver til 06-10-2022 - JOIN
 nav_order: 25
-parent: Online-06-10-2022
+parent: Database
 has_children: false
 ---
 <span class="fs-1">

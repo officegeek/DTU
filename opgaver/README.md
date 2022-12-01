@@ -14,8 +14,8 @@ Alle opgaver skal afleveres på DTU Learn.
 |----------|-----------------------|
 | Opgave 1 | Fredag den 23-09-2022 |
 | Opgave 2 | Fredag den 14-10-2022 |
-| Opgave 3 | Fredag den 25-11-2022 |
-| Opgave 4 | Fredag den 08-12-2022 |
+| Opgave 3 | Fredag den 02-12-2022 |
+| Opgave 4 | Fredag den 19-12-2022 |
 
 ## Opgave 1
 Informationen om opgave 1. finder du i Excel filen [DTU_Opgave_1.xlsx](..//filer/DTU_Opgave_1.xlsx).
@@ -42,4 +42,9 @@ Opgavebeskrivelsen finder du [her](./opgave_3/Opgave%203.pdf).
 På DTU Learn er det Excel filen **DataAnalyse.xlsm** og **PowerPoint filen** der skal afleveres.
 
 ## Opgave 4
-Samler alt det i har været igennem.
+Samler alt det i har været igennem :-)
+
+- Opgave beskrivelsen finder du her: [Opgave4](./opgave_4/Opgave%204.pdf)
+- Du skal bruge en Excel fil, den finder du her: [opgave4.xlsm](./opgave_4/opgave4.xlsm)
+
+Du skal aflevere på Learn

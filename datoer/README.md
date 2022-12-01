@@ -14,7 +14,7 @@ Undervisningen er fordel på:
 - 8 fremmøde gange
 - 5 *online* gange
 
-De 6 online gange bliver du undervist via videoer der er optaget og tilhørende opgaver.
+De 5 online gange bliver du undervist via videoer der er optaget og tilhørende opgaver.
 
 ## Datoer efteråret 2022
 
@@ -35,9 +35,9 @@ De 6 online gange bliver du undervist via videoer der er optaget og tilhørende 
 | 10-11-2022 	| **Fremmøde** 	| [Microsoft Power BI](../powerbi/README.md)                	        |
 | 17-11-2022 	| *Online* 	    | [Microsoft Power BI](../powerbi/README.md)               	            |
 | 24-11-2022 	| **Fremmøde**  | [Excel VBA](../vba/README.md)                          	            |
-| 25-11-2022 	| Opgave 3    	| [Link til opgaver](../opgaver/README.md){: .btn .btn-blue }          	|
 | 01-12-2022 	| **Fremmøde** 	| [Excel VBA](../vba/README.md)                                     	|
-| 08-12-2022 	| Opgave 4      | [Link til opgaver](../opgaver/README.md){: .btn .btn-blue }           |
+| 02-12-2022 	| Opgave 3    	| [Link til opgaver](../opgaver/README.md){: .btn .btn-blue }          	|
+| 19-12-2022 	| Opgave 4      | [Link til opgaver](../opgaver/README.md){: .btn .btn-blue }           |
 
 
 ## Opgaver
@@ -47,8 +47,8 @@ Der er 4 obligatoriske opgaver som **skal** afleveres på følgende datoer:
 |----------|-----------------------|
 | Opgave 1 | Fredag den 23-09-2022 |
 | Opgave 2 | Fredag den 14-10-2022 |
-| Opgave 3 | Fredag den 25-11-2022 |
-| Opgave 4 | Fredag den 08-12-2022 |
+| Opgave 3 | Fredag den 02-12-2022 |
+| Opgave 4 | Fredag den 19-12-2022 |
 
 For at bestå modulet skal **alle** 4 obligatoriske opgaver være afleveret og godkendt. Der er ingen eksamen og karakteren er *bestået/ikke bestået*
 
