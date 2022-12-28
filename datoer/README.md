@@ -6,49 +6,47 @@ nav_order: 10
 <span class="fs-1">
 [HOME](../README.md){: .btn .btn-blue }
 </span>
-# Undervisnings datoer - 2022 - Efterår
+# Undervisnings datoer - 2023 - Forår
 Modulet løber over 13 undervisnings gange.
 
 Undervisningen er fordel på:
 
-- 8 fremmøde gange
-- 5 *online* gange
+- 6 fremmøde gange
+- 7 *online* gange
 
-De 5 online gange bliver du undervist via videoer der er optaget og tilhørende opgaver.
+De 7 online gange bliver du undervist via videoer der er optaget og tilhørende opgaver.
 
-## Datoer efteråret 2022
+## Datoer foråret 2023
 
 |Dato	        |Type         	|Link                                                                 	|
 |------------	|--------------	|---------------------------------------------------------------------	|
-| 01-09-2022 	| **Fremmøde** 	| [Excel](../excel/README.md)                                         	|
-| 08-09-2022 	| **Fremmøde** 	| [Excel](../excel/README.md)                                         	|
-| 15-09-2022 	| *Online* 	    | [Excel](../excel/README.md)                                       	|
-| 22-09-2022 	| **Fremmøde** 	| [Project Software](../microsoftproject/README.md)                    	|
-| 23-09-2022 	| Opgave 1   	| [Link til opgaver](../opgaver/README.md){: .btn .btn-blue }          	|
-| 29-09-2022 	| **Fremmøde** 	| [Project Software](../microsoftproject/README.md)                    	|
-| 06-10-2022 	| *Online*  	| [Excel Data - Power Query - Database - SQL](../databaser/README.md) 	|
-| 13-10-2022 	| *Online*  	| [Excel Data - Power Query - Database - SQL](../databaser/README.md)   |
-| 14-10-2022 	| Opgave 2    	| [Link til opgaver](../opgaver/README.md){: .btn .btn-blue }           |
-| 20-10-2022 	| **Ferie**    	| **Efterårsferie**                                                     |
-| 27-10-2022 	| *Online*  	| [Excel Office Script](../officescripts/README.md)                   	|
-| 03-11-2022 	| **Fremmøde** 	| [Microsoft Power Automate & Apps](../power/README.md)      	        |
-| 10-11-2022 	| **Fremmøde** 	| [Microsoft Power BI](../powerbi/README.md)                	        |
-| 17-11-2022 	| *Online* 	    | [Microsoft Power BI](../powerbi/README.md)               	            |
-| 24-11-2022 	| **Fremmøde**  | [Excel VBA](../vba/README.md)                          	            |
-| 01-12-2022 	| **Fremmøde** 	| [Excel VBA](../vba/README.md)                                     	|
-| 02-12-2022 	| Opgave 3    	| [Link til opgaver](../opgaver/README.md){: .btn .btn-blue }          	|
-| 19-12-2022 	| Opgave 4      | [Link til opgaver](../opgaver/README.md){: .btn .btn-blue }           |
-
+| 03-02-2023 	| **Fremmøde** 	| [Excel](../excel/README.md)                                         	|
+| 09-02-2023 	| **Fremmøde** 	| [Excel](../excel/README.md)                                         	|
+| 16-02-2023 	| *Online* 	    | [Excel](../excel/README.md)                                       	|
+| 23-02-2023 	| **Fremmøde** 	| [Project Software](../microsoftproject/README.md)                    	|
+| 24-02-2023 	| Opgave 1   	| [Link til opgaver](../opgaver/README.md){: .btn .btn-blue }          	|
+| 02-03-2023 	| **Fremmøde** 	| [Project Software](../microsoftproject/README.md)                    	|
+| 09-03-2023 	| **Fremmøde**	| [Excel Data - Power Query - Database - SQL](../databaser/README.md) 	|
+| 16-03-2023 	| *Online*  	| [Excel Data - Power Query - Database - SQL](../databaser/README.md)   |
+| 17-03-2023 	| Opgave 2    	| [Link til opgaver](../opgaver/README.md){: .btn .btn-blue }           |
+| 23-03-2023 	| *Online*  	| [Excel Office Script](../officescripts/README.md)                   	|
+| 30-03-2023 	| *Online*  	| [Microsoft Power Automate & Apps](../power/README.md)      	        |
+| 06-04-2023	| **Fremmøde** 	| [Microsoft Power BI](../powerbi/README.md)                	        |
+| 13-04-2023 	| *Online* 	    | [Microsoft Power BI](../powerbi/README.md)               	            |
+| 14-04-2023 	| Opgave 3    	| [Link til opgaver](../opgaver/README.md){: .btn .btn-blue }          	|
+| 20-04-2023 	| *Online*      | [Excel VBA](../vba/README.md)                          	            |
+| 27-04-2023 	| *Online* 	    | [Excel VBA](../vba/README.md)                                     	|
+| 28-04-2023 	| Opgave 4      | [Link til opgaver](../opgaver/README.md){: .btn .btn-blue }           |
 
 ## Opgaver
 Der er 4 obligatoriske opgaver som **skal** afleveres på følgende datoer:
 
 | Opgave   | Afleverings dato      |
 |----------|-----------------------|
-| Opgave 1 | Fredag den 23-09-2022 |
-| Opgave 2 | Fredag den 14-10-2022 |
-| Opgave 3 | Fredag den 02-12-2022 |
-| Opgave 4 | Fredag den 19-12-2022 |
+| Opgave 1 | Fredag den 24-02-2023 |
+| Opgave 2 | Fredag den 17-03-2023 |
+| Opgave 3 | Fredag den 14-04-2023 |
+| Opgave 4 | Fredag den 28-04-2023 |
 
 For at bestå modulet skal **alle** 4 obligatoriske opgaver være afleveret og godkendt. Der er ingen eksamen og karakteren er *bestået/ikke bestået*
 
