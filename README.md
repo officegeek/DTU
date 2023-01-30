@@ -15,9 +15,9 @@ Dette modul er opdelt i følgende 7 hovedemner:
 
 [Microsoft Power Automate & Apps](./power/README.md){: .btn .btn-blue } 
 
-[Microsoft Power BI](./powerbi/README.md){: .btn .btn-blue }
-
 [VBA programmering i Excel](./vba/README.md){: .btn .btn-blue }
+
+[Microsoft Power BI](./powerbi/README.md){: .btn .btn-blue }
 
 
 Dette modul er hvad jeg vil kalde et **værktøjs kursus**, forstået på den måde at i vil lære at bruge nogle af de centrale værktøjer i får brug for når i er færdiguddannede.
