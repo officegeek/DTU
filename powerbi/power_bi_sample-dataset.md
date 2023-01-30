@@ -3,7 +3,7 @@ layout: default
 title: Power BI sample dataset
 parent: Power-BI
 has_children: false
-nav_order: 20
+nav_order: 40
 ---
 
 <details open markdown="block">

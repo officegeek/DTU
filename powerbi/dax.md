@@ -3,7 +3,7 @@ layout: default
 title: DAX
 parent: Power-BI
 has_children: false
-nav_order: 30
+nav_order: 50
 ---
 
 <details open markdown="block">

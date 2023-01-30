@@ -3,7 +3,7 @@ layout: default
 title: Microsoft Financial Sample
 parent: Power-BI
 has_children: false
-nav_order: 10
+nav_order: 30
 ---
 
 # Financial Sample Excel workbook
