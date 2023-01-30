@@ -28,15 +28,6 @@ Oversigt over de enkelte undervisningsdage
 [Datoer](./datoer/README.md){: .btn .btn-green }
 </span>
 
-## Online gange
-Der er 5 undervisningsdage der er online, her finder du links til disse:
-
-- [15-09-2022 - Excel](./excel/online15092022.md)
-- [06-10-2022 - Database - SQL](./databaser/online-06102022.md)
-- [13-10-2022 - Excel Data - Power Query - Database - SQL](./online/13102022.md)
-- [27-10-2022 - Excel Office Script](./online/27102022.md)
-- [17-11-2022 - Microsoft Power BI](./online/17112022.md)
-
 ## Eksamen
 Det er et **Bestået/Ikke Bestået** modul, hvor der skal afleveres 4 opgaver i løbet af semestret, som skal godkendes for at bestå
 <span class="fs-1">
