@@ -1,12 +1,13 @@
+---
+layout: default
+title: Tabeller
+parent: Excel
+nav_order: 45
+---
 
 <span class="fs-1">
 [HOME](./README.md){: .btn .btn-blue }
 </span>
-
-layout: default
-title: Tabeller og Pivot Tabeller
-nav_order: 20
-parent: Excel
 
 # Tabeller
 Når du skal arbejde med data i Excel er det en klar fordel at disse data er *formateret* som en tabel. Det gør det nemmere at opdatere, formatere og anvende data.
