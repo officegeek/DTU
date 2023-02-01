@@ -3,7 +3,7 @@ layout: default
 title: Office Script Eksempler
 parent: Microsoft Office Scripts
 has_children: false
-nav_order: 10
+nav_order: 20
 ---
 
 # Office Script Eksempler
