@@ -9,7 +9,7 @@ nav_order: 45
 [HOME](./README.md){: .btn .btn-blue }
 </span>
 
-# Tabeller - test
+# Tabeller
 Når du skal arbejde med data i Excel er det en klar fordel at disse data er *formateret* som en tabel. Det gør det nemmere at opdatere, formatere og anvende data.
 
 ## Filer
