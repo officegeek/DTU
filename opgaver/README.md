@@ -18,7 +18,7 @@ Alle opgaver skal afleveres på DTU Learn.
 | Opgave 4 | Fredag den 28-04-2023 |
 
 ## Opgave 1
-Informationen om opgave 1. finder du i Excel filen [DTU_Opgave_1.xlsx](..//filer/DTU_Opgave_1.xlsx).
+Informationen om opgave 1. finder du i Excel filen [DTU_Opgave_1_2023.xlsx](../filer/DTU_Opgave_1_2023.xlsx).
 
 Det er også denne fil du skal aflevere på DTU Learn.
 
