@@ -31,7 +31,7 @@ De 9 online gange bliver du undervist via videoer der er optaget og tilhørende 
 | 16-03-2023 	| *Online*  	| [Excel Data - Power Query - Database - SQL](../databaser/README.md)      |
 | 23-03-2023 	| *Online*  	| [Excel Office Script](../officescripts/README.md)                   	   |
 | 30-03-2023 	| *Online*  	| [Microsoft Power Automate & Apps](../Microsoft_Power_Automate/README.md) |
-| 06-04-2023	| **Fremmøde** 	| [Excel VBA](../vba/README.md)                	                           |
+| 06-04-2023	| *Online*  	| [Excel VBA](../vba/README.md)                	                           |
 | 07-04-2023 	| Opgave 3    	| [Link til opgaver](../opgaver/README.md){: .btn .btn-blue }          	   |
 | 13-04-2023 	| *Online* 	    | [Excel VBA](../vba/README.md)              	                           |
 | 20-04-2023 	| *Online*      | [Excel VBA](../vba/README.md)                          	               |
