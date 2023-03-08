@@ -29,8 +29,8 @@ Fordelen ved det er at i ikke skal skal oprette databasen, tabeller og indsætte
 ### Login MySQL
 I Workbench skal i oprette forbindelse til Azure databasen **Northwind**, med disse indstillinger:
 
-- Server name: **test-tueh.mysql.database.azure.com**
-- Login name: **dtu**
+- Server name: **dtu2023northwind.mysql.database.azure.com**
+- Login name: **hellstern**
 - Password: *udleveres i undervisningen*
 
 ![](./image/DTU_Workbench_2.jpg)
