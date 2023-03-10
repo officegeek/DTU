@@ -13,7 +13,7 @@ Dette modul er opdelt i følgende 7 hovedemner:
 
 [Excel Office Script](./officescripts/README.md){: .btn .btn-blue }
 
-[Microsoft Power Automate & Apps](./power/README.md){: .btn .btn-blue } 
+[Microsoft Power Automate & Apps](./power_automate/README.md){: .btn .btn-blue } 
 
 [VBA programmering i Excel](./vba/README.md){: .btn .btn-blue }
 
